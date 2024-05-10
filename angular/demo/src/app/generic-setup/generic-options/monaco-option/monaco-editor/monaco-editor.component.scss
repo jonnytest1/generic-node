@@ -1,0 +1,44 @@
+::ng-deep{
+    .line-numbers{
+        width:26px !important
+    }
+
+    .mtk1{
+        color :#9cdcfe !important
+    }
+
+    .is-function{
+        color:#dcdcaa !important
+    }
+}
+
+.savedIcon{
+    position: absolute;
+    padding-top: 8px;
+    right: 48px;
+    
+    z-index: 9;
+    /*transition: opacity 1s ease-in-out;
+    opacity: 1;*/
+  
+    &.hidden{
+        visibility: hidden;
+        opacity: 0;
+        transition: visibility 0s 1s, opacity 1s linear
+    }
+  
+    
+}
+
+.white-icon {
+  color: white;
+}
+
+
+#monaco-editor-embed{
+  width: 600px;
+  @media screen and (max-width: 600px){
+    width:100%
+  }
+  height: 250px;
+}

@@ -1,0 +1,48 @@
+.wrapper {
+
+  position: absolute;
+  inset: 0px;
+  display: flex;
+  overflow: auto;
+  background-size: 10px 10px;
+  background-image: linear-gradient(to right, rgba(158, 158, 158, 0.1) 1px, transparent 1px), linear-gradient(to bottom, rgba(158, 158, 158, 0.1) 1px, transparent 1px);
+
+  .background {
+    flex-grow: 1;
+
+
+  }
+
+}
+
+.properties {
+  min-height: 45%;
+  border: 2px solid black;
+
+  background-color: wheat;
+
+  padding: 4px;
+
+
+  position: absolute;
+  right: 20px;
+  bottom: 20px;
+  min-width: 40%;
+
+  z-index: 99;
+}
+
+.nodelist {
+  padding: 4px;
+  position: absolute;
+  right: 30px;
+
+  background-color: rgba(134, 134, 134, 0.315);
+
+  .dragelement {
+    cursor: grab;
+  }
+
+
+
+}

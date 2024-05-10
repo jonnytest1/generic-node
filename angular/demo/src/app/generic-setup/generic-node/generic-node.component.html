@@ -1,0 +1,51 @@
+<div class="node"
+     *ngrxLet="node$ |async let node">
+
+  <div class="border"
+       [class.selected]="selected"
+       [class.inputactive]="(is_Active|async)?.input"
+       [class.outputactive]="(is_Active|async)?.output"
+       [style.minHeight]="(((size$|async)??0)+1)*20+'px'">
+    <div class="icons">
+      <mat-icon *ngIf="node?.runtimeContext?.outputSchema?.jsonSchema">security</mat-icon>
+
+    </div>
+    <mat-icon class="inputSchema"
+              *ngIf="node?.runtimeContext?.inputSchema"
+              [title]="node?.runtimeContext?.inputSchema?.dts?.replace('export type ','')">security</mat-icon>
+    <div #input
+         *ngFor="let n of inputsCt$|async;let indx=index"
+         class="connector inputs"
+         [class.editable]="editable"
+         [class.selected]="selected"
+         [style.top]="(indx*20+10+6+2)+'px'"
+         id="droptarget{{indx}}_{{prefix}}"
+         (dragover)="dropAllowed($event)"
+         (drop)="onDrop($event,indx)">
+    </div>
+    <span class="type"
+          [class.highlighted]="highlightText">
+      <ng-content></ng-content>
+    </span>
+    <div>
+      <span *ngIf="node?.parameters?.name"
+            class="nodename">{{node?.parameters?.name}} - </span><span
+            *ngIf="node?.runtimeContext?.info">{{node?.runtimeContext?.info}}</span>
+    </div>
+    <div *ngIf="(activity$|async)?.output;let output">
+      {{localeTime(output)}}
+    </div>
+    <span *ngIf="(con.debugMode|async) && !!node">{{node.uuid}}</span>
+    <div #output
+         *ngFor="let n of outputCt$|async;let indx=index"
+         class="connector ouputs"
+         [class.editable]="editable"
+         [class.selected]="selected"
+         [style.top]="(indx*20+10+6+2)+'px'"
+         (mousedown)="$event.stopPropagation()"
+         draggable="true"
+         (dragstart)="startConnection($event,indx)">
+    </div>
+  </div>
+
+</div>

@@ -1,0 +1,74 @@
+<div class="positioning"
+     *ngIf="node$|async ;let node">
+  <ng-container *ngIf="options$|async let options">
+    <div id="overlay"
+         popover>
+      <h1>global settings</h1>
+      <form #formglob>
+        <div class="wrapper">
+          <ng-container *ngFor="let entry of options.globalConfig|keyvalue">
+            <div [title]="entry.value.title??''">
+              {{entry.key}}
+            </div>
+            <div>
+              <app-gen-option [definition]="entry.value"
+                              [name]="entry.key"
+                              [node]="node"
+                              [value]="node.parameters?.[entry.key]">
+              </app-gen-option>
+            </div>
+          </ng-container>
+        </div>
+      </form>
+
+    </div>
+
+    <div class="icons">
+      <button class="icon"
+              popovertarget="overlay"
+              *ngIf="options.globalConfig">
+        <mat-icon>settings</mat-icon>
+      </button>
+      <button class="icon"
+              *ngIf="options.page">
+        <mat-icon routerLink="type/{{options.type}}">launch</mat-icon>
+      </button>
+    </div>
+
+
+
+    <h2>{{node.type}}</h2>
+
+    <form #form>
+      <div class="wrapper"
+           *ngIf="entries$|async let entries">
+        <ng-container *ngFor="let entry of entries;trackBy:entryName">
+          <div [title]="entry.value.title??''">
+            {{entry.name}}
+          </div>
+          <div>
+            <app-gen-option [definition]="entry.value"
+                            [name]="entry.name"
+                            [node]="node"
+                            [value]="node.parameters?.[entry.name]">
+            </app-gen-option>
+          </div>
+        </ng-container>
+      </div>
+    </form>
+
+    <ng-container *ngIf="con.debugMode|async">
+      <br><br>
+      <span>
+        {{node.uuid}}
+      </span><br>
+      input:
+      <pre>{{node.runtimeContext.inputSchema?.dts ?? ''}}</pre><br>
+      output:
+      <pre>{{node.runtimeContext.outputSchema?.dts ?? ''}}</pre>
+      props:
+      <span>{{node.parameters| json}}</span><br>
+      <span>{{node.runtimeContext?.parameters| json}}</span>
+    </ng-container>
+  </ng-container>
+</div>

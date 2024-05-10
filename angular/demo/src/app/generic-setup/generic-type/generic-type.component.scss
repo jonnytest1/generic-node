@@ -1,0 +1,11 @@
+span {
+  text-align: center;
+  width: 100%;
+  display: block;
+}
+
+iframe {
+  width: calc(var(--vwidth) - 8px);
+  height: calc(var(--vheight) - 50px);
+  border: unset;
+}

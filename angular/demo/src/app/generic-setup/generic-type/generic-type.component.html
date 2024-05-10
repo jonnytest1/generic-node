@@ -1,0 +1,28 @@
+<div *ngIf="nodeDef$ |async ;let nodeDef;">
+  <ng-container *ngIf="nodeDef===NodeDefErrors.TYPE_DOESNT_EXIST;else page">
+    <span>
+      type {{nodeDefType$|async}} does not have an implementaion
+    </span>
+  </ng-container>
+
+
+  <ng-template #page>
+    <ng-container *ngIf="isNodeDef(nodeDef)">
+      <ng-container *ngIf="!!nodeDef.page;else nopage">
+        <span>
+          {{nodeDef.type}}
+        </span>
+        <iframe [src]="nodeDef.url"
+                #pageframe>
+
+        </iframe>
+      </ng-container>
+
+      <ng-template #nopage>
+        type {{nodeDef.type}} doesnt have a page
+      </ng-template>
+    </ng-container>
+
+  </ng-template>
+
+</div>

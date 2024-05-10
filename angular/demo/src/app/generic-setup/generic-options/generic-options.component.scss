@@ -1,0 +1,36 @@
+.positioning {
+  position: relative;
+
+
+  #overlay {
+    position: fixed;
+    min-width: max(200px, 30vw);
+    min-height: max(100px, 25vh);
+
+    border: 2px solid black
+  }
+
+  .icons {
+    position: absolute;
+    right: 8px;
+    display: flex;
+    gap: 4px;
+
+    .icon {
+      border: 0;
+
+      cursor: pointer //top: 8px;
+    }
+  }
+
+  form {
+
+
+    .wrapper {
+      padding: 4px;
+      display: grid;
+      grid-template-columns: minmax(min-content, 80px) auto;
+      gap: 4px
+    }
+  }
+}

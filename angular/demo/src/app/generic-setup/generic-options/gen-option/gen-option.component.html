@@ -1,0 +1,40 @@
+<div (change)="paramChanged($event)">
+
+
+
+  <ng-container *ngIf="definition.type=='select';else checkMonaco">
+    <select name="{{name}}">
+      <option *ngFor="let opt of definition.options;let index=index"
+              [value]="opt"
+              [attr.selected]="opt===value?true:null">
+        {{definition.optionDisplayNames?definition.optionDisplayNames[index] :opt}}
+      </option>
+    </select>
+  </ng-container>
+  <ng-template #checkMonaco>
+    <ng-container *ngIf="definition.type=='monaco';else checkFrame">
+      <app-monaco-option [name]="name"
+                         [value]="value"
+                         [definition]="definition"
+                         [node]="node">
+      </app-monaco-option>
+    </ng-container>
+  </ng-template>
+  <ng-template #checkFrame>
+    <ng-container *ngIf="definition.type=='iframe';else inputEl">
+      <app-frame-option [definition]="definition"
+                        [name]="name"
+                        [currentValue]="value"></app-frame-option>
+    </ng-container>
+  </ng-template>
+  <ng-template #inputEl>
+    <input [type]="definition.type"
+           #inputRef
+           (keyup)="$event.stopPropagation()"
+           name="{{name}}"
+           [min]="definition.type=='number'?definition.min:undefined"
+           [max]="definition.type=='number'?definition.max:undefined"
+           [value]="value ??''">
+
+  </ng-template>
+</div>
