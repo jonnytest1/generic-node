@@ -1,0 +1,3 @@
+server/node_modules
+server/src/validation/files/types
+server/.vscode/settings.json

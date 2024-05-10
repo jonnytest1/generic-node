@@ -1,0 +1,1240 @@
+{
+   "04fd0a1d-2603-4d50-9fa8-c70f9b13af39": {
+      "payload": "{\"co2_level\": 539, \"timestamp\": \"2024-03-13T22:30:18.530506\"}",
+      "context": {
+         "topic": "tele/co2-scanner/SENSOR",
+         "device": {
+            "discoveryid": "co2-scanner",
+            "commands": [],
+            "iscommandsSet": true,
+            "mqttDeviceName": "co2-scanner",
+            "topicPrefixes": [
+               "tele"
+            ],
+            "friendlyName": "co2-scanner"
+         }
+      }
+   },
+   "5be7ce64-1d81-4208-9240-9eba9d2bb249": {
+      "payload": "{\"co2_level\": 610, \"timestamp\": \"2024-02-26T15:19:57.566538\"}",
+      "context": {
+         "topic": "tele/co2-scanner/SENSOR",
+         "device": {
+            "discoveryid": "co2-scanner",
+            "commands": [],
+            "iscommandsSet": true,
+            "mqttDeviceName": "co2-scanner",
+            "topicPrefixes": [
+               "tele"
+            ],
+            "friendlyName": "co2-scanner"
+         }
+      }
+   },
+   "6a92e26b-f1f6-4c4c-8113-dc5b4dbffeac": {
+      "payload": "{\"co2_level\": 539, \"timestamp\": \"2024-03-13T22:30:18.530506\"}",
+      "context": {
+         "topic": "tele/co2-scanner/SENSOR",
+         "device": {
+            "discoveryid": "co2-scanner",
+            "commands": [],
+            "iscommandsSet": true,
+            "mqttDeviceName": "co2-scanner",
+            "topicPrefixes": [
+               "tele"
+            ],
+            "friendlyName": "co2-scanner"
+         }
+      }
+   },
+   "275ac07c-54bb-429c-be22-37f0c0d79875": {
+      "payload": 3,
+      "context": {
+         "topic": "tele/tasmota_F9730C/SENSOR",
+         "device": {
+            "discoveryid": "404CCAF9730C",
+            "commands": [
+               {
+                  "name": "Power0",
+                  "argument": {
+                     "type": "select",
+                     "options": [
+                        "on",
+                        "off"
+                     ]
+                  }
+               },
+               {
+                  "name": "FriendlyName",
+                  "argument": {
+                     "type": "text"
+                  },
+                  "flags": {
+                     "needsRedstart": true
+                  }
+               },
+               {
+                  "name": "SensorRetain",
+                  "argument": {
+                     "type": "select",
+                     "options": [
+                        "on",
+                        "off"
+                     ]
+                  }
+               },
+               {
+                  "name": "Restart",
+                  "argument": {
+                     "type": "select",
+                     "options": [
+                        "1"
+                     ]
+                  }
+               }
+            ],
+            "iscommandsSet": true,
+            "mqttDeviceName": "tasmota_F9730C",
+            "topicPrefixes": [
+               "cmnd",
+               "stat",
+               "tele"
+            ],
+            "friendlyName": "mqtt_laufband"
+         }
+      },
+      "inputIndex": 0
+   },
+   "b41c02e5-57a3-4a1f-b533-5764512d5df1": {
+      "payload": {
+         "ENERGY": {
+            "ApparentPower": 12,
+            "Current": 0.054,
+            "Factor": 0.21,
+            "Period": 0,
+            "Power": 3,
+            "ReactivePower": 12,
+            "Today": 0.061,
+            "Total": 8.228,
+            "TotalStartTime": "2024-01-29T11:22:58.000Z",
+            "Voltage": 231,
+            "Yesterday": 0.156
+         },
+         "Time": "2024-03-13T21:30:11.000Z"
+      },
+      "context": {
+         "topic": "tele/tasmota_F9730C/SENSOR",
+         "device": {
+            "discoveryid": "404CCAF9730C",
+            "commands": [
+               {
+                  "name": "Power0",
+                  "argument": {
+                     "type": "select",
+                     "options": [
+                        "on",
+                        "off"
+                     ]
+                  }
+               },
+               {
+                  "name": "FriendlyName",
+                  "argument": {
+                     "type": "text"
+                  },
+                  "flags": {
+                     "needsRedstart": true
+                  }
+               },
+               {
+                  "name": "SensorRetain",
+                  "argument": {
+                     "type": "select",
+                     "options": [
+                        "on",
+                        "off"
+                     ]
+                  }
+               },
+               {
+                  "name": "Restart",
+                  "argument": {
+                     "type": "select",
+                     "options": [
+                        "1"
+                     ]
+                  }
+               }
+            ],
+            "iscommandsSet": true,
+            "mqttDeviceName": "tasmota_F9730C",
+            "topicPrefixes": [
+               "cmnd",
+               "stat",
+               "tele"
+            ],
+            "friendlyName": "mqtt_laufband"
+         }
+      },
+      "inputIndex": 0
+   },
+   "30523eaa-d41d-4f9c-8541-edba85e3a84e": {
+      "payload": "{\"Time\":\"2024-03-13T22:30:11\",\"ENERGY\":{\"TotalStartTime\":\"2024-01-29T12:22:58\",\"Total\":8.228,\"Yesterday\":0.156,\"Today\":0.061,\"Period\":0,\"Power\":3,\"ApparentPower\":12,\"ReactivePower\":12,\"Factor\":0.21,\"Voltage\":231,\"Current\":0.054}}",
+      "context": {
+         "topic": "tele/tasmota_F9730C/SENSOR",
+         "device": {
+            "discoveryid": "404CCAF9730C",
+            "commands": [
+               {
+                  "name": "Power0",
+                  "argument": {
+                     "type": "select",
+                     "options": [
+                        "on",
+                        "off"
+                     ]
+                  }
+               },
+               {
+                  "name": "FriendlyName",
+                  "argument": {
+                     "type": "text"
+                  },
+                  "flags": {
+                     "needsRedstart": true
+                  }
+               },
+               {
+                  "name": "SensorRetain",
+                  "argument": {
+                     "type": "select",
+                     "options": [
+                        "on",
+                        "off"
+                     ]
+                  }
+               },
+               {
+                  "name": "Restart",
+                  "argument": {
+                     "type": "select",
+                     "options": [
+                        "1"
+                     ]
+                  }
+               }
+            ],
+            "iscommandsSet": true,
+            "mqttDeviceName": "tasmota_F9730C",
+            "topicPrefixes": [
+               "cmnd",
+               "stat",
+               "tele"
+            ],
+            "friendlyName": "mqtt_laufband"
+         }
+      },
+      "inputIndex": 0
+   },
+   "2f6cceb4-fbd2-425a-b12f-c17c9f0029fc": {
+      "payload": 539,
+      "context": {
+         "topic": "tele/co2-scanner/SENSOR",
+         "device": {
+            "discoveryid": "co2-scanner",
+            "commands": [],
+            "iscommandsSet": true,
+            "mqttDeviceName": "co2-scanner",
+            "topicPrefixes": [
+               "tele"
+            ],
+            "friendlyName": "co2-scanner"
+         }
+      },
+      "inputIndex": 0
+   },
+   "1922982a-12cb-4506-809b-0823f271c31a": {
+      "payload": {
+         "co2_level": 539,
+         "timestamp": "2024-03-13T21:30:18.530Z"
+      },
+      "context": {
+         "topic": "tele/co2-scanner/SENSOR",
+         "device": {
+            "discoveryid": "co2-scanner",
+            "commands": [],
+            "iscommandsSet": true,
+            "mqttDeviceName": "co2-scanner",
+            "topicPrefixes": [
+               "tele"
+            ],
+            "friendlyName": "co2-scanner"
+         }
+      },
+      "inputIndex": 0
+   },
+   "e28b22d1-18d5-44c9-8d2d-f4c5d188de4a": {
+      "payload": "{\"co2_level\": 539, \"timestamp\": \"2024-03-13T22:30:18.530506\"}",
+      "context": {
+         "topic": "tele/co2-scanner/SENSOR",
+         "device": {
+            "discoveryid": "co2-scanner",
+            "commands": [],
+            "iscommandsSet": true,
+            "mqttDeviceName": "co2-scanner",
+            "topicPrefixes": [
+               "tele"
+            ],
+            "friendlyName": "co2-scanner"
+         }
+      },
+      "inputIndex": 0
+   },
+   "815c2648-3a40-4ab8-8911-15355fe9bc5f": {
+      "payload": {
+         "type": "keys",
+         "data": {
+            "bluetoothboard": [],
+            "firstboard": [],
+            "footboard-ble": []
+         }
+      },
+      "context": {}
+   },
+   "4e65f652-7ea3-4f63-8f41-8cc2446de550": {
+      "payload": {
+         "type": "keys",
+         "data": {
+            "bluetoothboard": [],
+            "firstboard": [],
+            "footboard-ble": []
+         }
+      },
+      "context": {}
+   },
+   "ff609761-2570-4d46-a533-99f71de6f745": {
+      "payload": {
+         "type": "keys",
+         "data": {
+            "bluetoothboard": [],
+            "firstboard": [],
+            "footboard-ble": []
+         }
+      },
+      "context": {}
+   },
+   "d323ad4c-0fc4-4c34-bd07-ef65630e61e9": {
+      "payload": {
+         "type": "keys",
+         "data": {
+            "bluetoothboard": [],
+            "firstboard": [],
+            "footboard-ble": []
+         }
+      },
+      "context": {}
+   },
+   "8fbf61fa-e447-43f7-81c4-1f1bb608d32e": {
+      "payload": {
+         "type": "keys",
+         "data": {
+            "bluetoothboard": [],
+            "firstboard": [],
+            "footboard-ble": []
+         }
+      },
+      "context": {}
+   },
+   "bd273288-9d11-4aaf-acee-9e4edeaa1a97": {
+      "payload": {
+         "type": "keys",
+         "data": {
+            "bluetoothboard": [],
+            "firstboard": [],
+            "footboard-ble": []
+         }
+      },
+      "context": {}
+   },
+   "a8050046-482f-4d01-8c42-73fd87530293": {
+      "payload": {
+         "type": "keys",
+         "data": {
+            "bluetoothboard": [],
+            "firstboard": [],
+            "footboard-ble": []
+         }
+      },
+      "context": {}
+   },
+   "c1165d30-7457-4843-91f3-8ef8b4efb442": {
+      "payload": {
+         "type": "keys",
+         "data": {
+            "bluetoothboard": [],
+            "firstboard": [],
+            "footboard-ble": []
+         }
+      },
+      "context": {}
+   },
+   "75b7aeea-7197-4ae5-8a4b-01dcb473d668": {
+      "payload": {
+         "type": "press",
+         "key": "J"
+      },
+      "context": {}
+   },
+   "47c62b60-a3c2-4737-8924-540b73317098": {
+      "payload": "{\"Time\":\"2024-02-26T13:11:23\",\"ENERGY\":{\"TotalStartTime\":\"2024-01-24T11:46:29\",\"Total\":294.812,\"Yesterday\":5.005,\"Today\":4.590,\"Period\":0,\"Power\":0,\"ApparentPower\":0,\"ReactivePower\":0,\"Factor\":0.00,\"Voltage\":235,\"Current\":0.000}}",
+      "context": {
+         "topic": "tele/tasmota_F97A30/SENSOR",
+         "device": {
+            "discoveryid": "404CCAF97A30",
+            "commands": [
+               {
+                  "name": "Power0",
+                  "argument": {
+                     "type": "select",
+                     "options": [
+                        "on",
+                        "off"
+                     ]
+                  }
+               },
+               {
+                  "name": "FriendlyName",
+                  "argument": {
+                     "type": "text"
+                  },
+                  "flags": {
+                     "needsRedstart": true
+                  }
+               },
+               {
+                  "name": "SensorRetain",
+                  "argument": {
+                     "type": "select",
+                     "options": [
+                        "on",
+                        "off"
+                     ]
+                  }
+               },
+               {
+                  "name": "Restart",
+                  "argument": {
+                     "type": "select",
+                     "options": [
+                        "1"
+                     ]
+                  }
+               }
+            ],
+            "iscommandsSet": true,
+            "mqttDeviceName": "tasmota_F97A30",
+            "topicPrefixes": [
+               "cmnd",
+               "stat",
+               "tele"
+            ],
+            "friendlyName": "mqtt_heater"
+         }
+      }
+   },
+   "dd5015be-e0f7-4c04-81c6-d63952d1bf82": {
+      "payload": "{\"co2_level\": 539, \"timestamp\": \"2024-03-13T22:30:18.530506\"}",
+      "context": {
+         "topic": "tele/co2-scanner/SENSOR",
+         "device": {
+            "discoveryid": "co2-scanner",
+            "commands": [],
+            "iscommandsSet": true,
+            "mqttDeviceName": "co2-scanner",
+            "topicPrefixes": [
+               "tele"
+            ],
+            "friendlyName": "co2-scanner"
+         }
+      }
+   },
+   "33ad16c1-a485-44ba-bb7b-58d767306d2a": {
+      "payload": "{\"Time\":\"2024-02-26T13:14:23\",\"ENERGY\":{\"TotalStartTime\":\"2024-01-24T11:46:29\",\"Total\":294.812,\"Yesterday\":5.005,\"Today\":4.590,\"Period\":0,\"Power\":0,\"ApparentPower\":0,\"ReactivePower\":0,\"Factor\":0.00,\"Voltage\":234,\"Current\":0.000}}",
+      "context": {
+         "topic": "tele/tasmota_F97A30/SENSOR",
+         "device": {
+            "discoveryid": "404CCAF97A30",
+            "commands": [
+               {
+                  "name": "Power0",
+                  "argument": {
+                     "type": "select",
+                     "options": [
+                        "on",
+                        "off"
+                     ]
+                  }
+               },
+               {
+                  "name": "FriendlyName",
+                  "argument": {
+                     "type": "text"
+                  },
+                  "flags": {
+                     "needsRedstart": true
+                  }
+               },
+               {
+                  "name": "SensorRetain",
+                  "argument": {
+                     "type": "select",
+                     "options": [
+                        "on",
+                        "off"
+                     ]
+                  }
+               },
+               {
+                  "name": "Restart",
+                  "argument": {
+                     "type": "select",
+                     "options": [
+                        "1"
+                     ]
+                  }
+               }
+            ],
+            "iscommandsSet": true,
+            "mqttDeviceName": "tasmota_F97A30",
+            "topicPrefixes": [
+               "cmnd",
+               "stat",
+               "tele"
+            ],
+            "friendlyName": "mqtt_heater"
+         }
+      }
+   },
+   "cb474da0-f352-4a88-8150-0c37269bcb1a": {
+      "payload": "{\"Time\":\"2024-03-13T22:30:11\",\"ENERGY\":{\"TotalStartTime\":\"2024-01-24T11:46:29\",\"Total\":472.161,\"Yesterday\":5.518,\"Today\":6.028,\"Period\":4.490,\"Power\":1619.782,\"ApparentPower\":1643.239,\"ReactivePower\":276.700,\"Factor\":0.99,\"Voltage\":230,\"Current\":7.138}}",
+      "context": {
+         "topic": "tele/tasmota_F97A30/SENSOR",
+         "device": {
+            "discoveryid": "404CCAF97A30",
+            "commands": [
+               {
+                  "name": "Power0",
+                  "argument": {
+                     "type": "select",
+                     "options": [
+                        "on",
+                        "off"
+                     ]
+                  }
+               },
+               {
+                  "name": "FriendlyName",
+                  "argument": {
+                     "type": "text"
+                  },
+                  "flags": {
+                     "needsRedstart": true
+                  }
+               },
+               {
+                  "name": "SensorRetain",
+                  "argument": {
+                     "type": "select",
+                     "options": [
+                        "on",
+                        "off"
+                     ]
+                  }
+               },
+               {
+                  "name": "Restart",
+                  "argument": {
+                     "type": "select",
+                     "options": [
+                        "1"
+                     ]
+                  }
+               }
+            ],
+            "iscommandsSet": true,
+            "mqttDeviceName": "tasmota_F97A30",
+            "topicPrefixes": [
+               "cmnd",
+               "stat",
+               "tele"
+            ],
+            "friendlyName": "mqtt_heater"
+         }
+      },
+      "inputIndex": 0
+   },
+   "6495b28e-fdae-472b-84bb-e27df00c0f5e": {
+      "payload": {
+         "ENERGY": {
+            "ApparentPower": 1643.239,
+            "Current": 7.138,
+            "Factor": 0.99,
+            "Period": 4.49,
+            "Power": 1619.782,
+            "ReactivePower": 276.7,
+            "Today": 6.028,
+            "Total": 472.161,
+            "TotalStartTime": "2024-01-24T10:46:29.000Z",
+            "Voltage": 230,
+            "Yesterday": 5.518
+         },
+         "Time": "2024-03-13T21:30:11.000Z"
+      },
+      "context": {
+         "topic": "tele/tasmota_F97A30/SENSOR",
+         "device": {
+            "discoveryid": "404CCAF97A30",
+            "commands": [
+               {
+                  "name": "Power0",
+                  "argument": {
+                     "type": "select",
+                     "options": [
+                        "on",
+                        "off"
+                     ]
+                  }
+               },
+               {
+                  "name": "FriendlyName",
+                  "argument": {
+                     "type": "text"
+                  },
+                  "flags": {
+                     "needsRedstart": true
+                  }
+               },
+               {
+                  "name": "SensorRetain",
+                  "argument": {
+                     "type": "select",
+                     "options": [
+                        "on",
+                        "off"
+                     ]
+                  }
+               },
+               {
+                  "name": "Restart",
+                  "argument": {
+                     "type": "select",
+                     "options": [
+                        "1"
+                     ]
+                  }
+               }
+            ],
+            "iscommandsSet": true,
+            "mqttDeviceName": "tasmota_F97A30",
+            "topicPrefixes": [
+               "cmnd",
+               "stat",
+               "tele"
+            ],
+            "friendlyName": "mqtt_heater"
+         }
+      },
+      "inputIndex": 0
+   },
+   "7aa68491-cefb-49b9-b0f4-adf22db3d09c": {
+      "payload": 1619.782,
+      "context": {
+         "topic": "tele/tasmota_F97A30/SENSOR",
+         "device": {
+            "discoveryid": "404CCAF97A30",
+            "commands": [
+               {
+                  "name": "Power0",
+                  "argument": {
+                     "type": "select",
+                     "options": [
+                        "on",
+                        "off"
+                     ]
+                  }
+               },
+               {
+                  "name": "FriendlyName",
+                  "argument": {
+                     "type": "text"
+                  },
+                  "flags": {
+                     "needsRedstart": true
+                  }
+               },
+               {
+                  "name": "SensorRetain",
+                  "argument": {
+                     "type": "select",
+                     "options": [
+                        "on",
+                        "off"
+                     ]
+                  }
+               },
+               {
+                  "name": "Restart",
+                  "argument": {
+                     "type": "select",
+                     "options": [
+                        "1"
+                     ]
+                  }
+               }
+            ],
+            "iscommandsSet": true,
+            "mqttDeviceName": "tasmota_F97A30",
+            "topicPrefixes": [
+               "cmnd",
+               "stat",
+               "tele"
+            ],
+            "friendlyName": "mqtt_heater"
+         }
+      },
+      "inputIndex": 0
+   },
+   "d1ec37e2-5dee-437f-ac52-041dfdb27618": {
+      "payload": {
+         "type": "release",
+         "key": "I"
+      },
+      "context": {},
+      "inputIndex": 0
+   },
+   "9a330e2d-ce85-451f-8de1-19246094950f": {
+      "payload": "{\"co2_level\": 539, \"timestamp\": \"2024-03-13T22:30:18.530506\"}",
+      "context": {
+         "topic": "tele/co2-scanner/SENSOR",
+         "device": {
+            "discoveryid": "co2-scanner",
+            "commands": [],
+            "iscommandsSet": true,
+            "mqttDeviceName": "co2-scanner",
+            "topicPrefixes": [
+               "tele"
+            ],
+            "friendlyName": "co2-scanner"
+         }
+      }
+   },
+   "293eda67-7faf-4677-87c3-3452f0d91652": {
+      "payload": "{\"timestamp\":\"2024-03-13T21:30:14.071Z\"}",
+      "context": {
+         "topic": "tele/pc-receiver/SENSOR",
+         "device": {
+            "discoveryid": "pc-receiver",
+            "commands": [
+               {
+                  "name": "play/pause"
+               },
+               {
+                  "name": "volume up"
+               },
+               {
+                  "name": "volume down"
+               },
+               {
+                  "name": "hibernate"
+               }
+            ],
+            "iscommandsSet": true,
+            "mqttDeviceName": "pc-receiver",
+            "topicPrefixes": [
+               "cmnd",
+               "tele"
+            ],
+            "friendlyName": "pc-receiver"
+         }
+      },
+      "inputIndex": 0
+   },
+   "6828551c-c4d0-403b-83f2-27da887415e7": {
+      "payload": "{\"Time\":\"2024-03-13T22:30:11\",\"ENERGY\":{\"TotalStartTime\":\"2024-01-24T11:46:29\",\"Total\":472.161,\"Yesterday\":5.518,\"Today\":6.028,\"Period\":4.490,\"Power\":1619.782,\"ApparentPower\":1643.239,\"ReactivePower\":276.700,\"Factor\":0.99,\"Voltage\":230,\"Current\":7.138}}",
+      "context": {
+         "topic": "tele/tasmota_F97A30/SENSOR",
+         "device": {
+            "discoveryid": "404CCAF97A30",
+            "commands": [
+               {
+                  "name": "Power0",
+                  "argument": {
+                     "type": "select",
+                     "options": [
+                        "on",
+                        "off"
+                     ]
+                  }
+               },
+               {
+                  "name": "FriendlyName",
+                  "argument": {
+                     "type": "text"
+                  },
+                  "flags": {
+                     "needsRedstart": true
+                  }
+               },
+               {
+                  "name": "SensorRetain",
+                  "argument": {
+                     "type": "select",
+                     "options": [
+                        "on",
+                        "off"
+                     ]
+                  }
+               },
+               {
+                  "name": "Restart",
+                  "argument": {
+                     "type": "select",
+                     "options": [
+                        "1"
+                     ]
+                  }
+               }
+            ],
+            "iscommandsSet": true,
+            "mqttDeviceName": "tasmota_F97A30",
+            "topicPrefixes": [
+               "cmnd",
+               "stat",
+               "tele"
+            ],
+            "friendlyName": "mqtt_heater"
+         }
+      },
+      "inputIndex": 0
+   },
+   "4d7457e1-6ab0-49ce-9fae-1a29e546a4f9": {
+      "payload": {
+         "ENERGY": {
+            "ApparentPower": 16.579,
+            "Current": 0.071,
+            "Factor": 0.78,
+            "Period": 0.48,
+            "Power": 12.866,
+            "ReactivePower": 10.5,
+            "Today": 0.003,
+            "Total": 367.751,
+            "TotalStartTime": "2024-01-24T10:46:29.000Z",
+            "Voltage": 235,
+            "Yesterday": 13.992
+         },
+         "Time": "2024-03-03T01:26:07.000Z"
+      },
+      "context": {
+         "topic": "tele/tasmota_F97A30/SENSOR",
+         "device": {
+            "discoveryid": "404CCAF97A30",
+            "commands": [
+               {
+                  "name": "Power0",
+                  "argument": {
+                     "type": "select",
+                     "options": [
+                        "on",
+                        "off"
+                     ]
+                  }
+               },
+               {
+                  "name": "FriendlyName",
+                  "argument": {
+                     "type": "text"
+                  },
+                  "flags": {
+                     "needsRedstart": true
+                  }
+               },
+               {
+                  "name": "SensorRetain",
+                  "argument": {
+                     "type": "select",
+                     "options": [
+                        "on",
+                        "off"
+                     ]
+                  }
+               },
+               {
+                  "name": "Restart",
+                  "argument": {
+                     "type": "select",
+                     "options": [
+                        "1"
+                     ]
+                  }
+               }
+            ],
+            "iscommandsSet": true,
+            "mqttDeviceName": "tasmota_F97A30",
+            "topicPrefixes": [
+               "cmnd",
+               "stat",
+               "tele"
+            ],
+            "friendlyName": "mqtt_heater"
+         }
+      }
+   },
+   "53bf157e-06ca-4e3d-98b9-28f767b3270b": {
+      "payload": "on",
+      "context": {},
+      "inputIndex": 0
+   },
+   "0d94c6fe-1fb0-4d8f-a24a-f3daa8b3a459": {
+      "payload": {
+         "type": "press",
+         "key": "A"
+      },
+      "context": {},
+      "inputIndex": 0
+   },
+   "110c959f-24c0-4ea0-813f-13a9852b8f00": {
+      "payload": {
+         "node": "110c959f-24c0-4ea0-813f-13a9852b8f00"
+      },
+      "context": {
+         "initialNode": "110c959f-24c0-4ea0-813f-13a9852b8f00"
+      }
+   },
+   "c6d42874-00c0-4c1e-834d-438f98101d83": {
+      "payload": {
+         "key": "C",
+         "type": "press"
+      },
+      "context": {},
+      "inputIndex": 0
+   },
+   "1377c74e-cb20-4c7c-9ded-77aaa864a436": {
+      "payload": {
+         "type": "press",
+         "key": "C"
+      },
+      "context": {},
+      "inputIndex": 0
+   },
+   "3fad69a3-083b-47b4-ab37-c3cfb1bbf552": {
+      "payload": true,
+      "context": {},
+      "inputIndex": 0
+   },
+   "113d1cd8-4a77-4986-81b7-8acdc1186fd9": {
+      "payload": {
+         "type": "press",
+         "key": "B"
+      },
+      "context": {},
+      "inputIndex": 0
+   },
+   "12b5d160-6e30-41f6-8eb9-7c97a2bb0533": {
+      "payload": "test",
+      "context": {}
+   },
+   "a055539b-f4c2-430e-85af-91de5bfd5553": {
+      "payload": {
+         "type": "press",
+         "key": "I"
+      },
+      "context": {
+         "manualKey": true
+      }
+   },
+   "8bf550a5-6640-450d-9e39-185e6c19b23d": {
+      "payload": "{\"co2_level\": 539, \"timestamp\": \"2024-03-13T22:30:18.530506\"}",
+      "context": {
+         "topic": "tele/co2-scanner/SENSOR",
+         "device": {
+            "discoveryid": "co2-scanner",
+            "commands": [],
+            "iscommandsSet": true,
+            "mqttDeviceName": "co2-scanner",
+            "topicPrefixes": [
+               "tele"
+            ],
+            "friendlyName": "co2-scanner"
+         }
+      }
+   },
+   "1aa3f08c-e418-4a80-a954-ea24c0db9064": {
+      "payload": "{\"timestamp\":\"2024-03-13T18:19:15.303Z\"}",
+      "context": {
+         "topic": "tele/pc-receiver/SENSOR",
+         "device": {
+            "discoveryid": "pc-receiver",
+            "commands": [
+               {
+                  "name": "play/pause"
+               },
+               {
+                  "name": "volume up"
+               },
+               {
+                  "name": "volume down"
+               },
+               {
+                  "name": "hibernate"
+               }
+            ],
+            "iscommandsSet": true,
+            "mqttDeviceName": "pc-receiver",
+            "topicPrefixes": [
+               "cmnd",
+               "tele"
+            ],
+            "friendlyName": "pc-receiver"
+         }
+      }
+   },
+   "3957e1d2-388c-4e2b-a8ec-681b8f53cc4d": {
+      "payload": "{\"Time\":\"2024-03-13T19:19:11\",\"ENERGY\":{\"TotalStartTime\":\"2024-01-24T11:46:29\",\"Total\":467.012,\"Yesterday\":5.518,\"Today\":0.880,\"Period\":4.510,\"Power\":1647.185,\"ApparentPower\":1666.316,\"ReactivePower\":251.800,\"Factor\":0.99,\"Voltage\":231,\"Current\":7.204}}",
+      "context": {
+         "topic": "tele/tasmota_F97A30/SENSOR",
+         "device": {
+            "discoveryid": "404CCAF97A30",
+            "commands": [
+               {
+                  "name": "Power0",
+                  "argument": {
+                     "type": "select",
+                     "options": [
+                        "on",
+                        "off"
+                     ]
+                  }
+               },
+               {
+                  "name": "FriendlyName",
+                  "argument": {
+                     "type": "text"
+                  },
+                  "flags": {
+                     "needsRedstart": true
+                  }
+               },
+               {
+                  "name": "SensorRetain",
+                  "argument": {
+                     "type": "select",
+                     "options": [
+                        "on",
+                        "off"
+                     ]
+                  }
+               },
+               {
+                  "name": "Restart",
+                  "argument": {
+                     "type": "select",
+                     "options": [
+                        "1"
+                     ]
+                  }
+               }
+            ],
+            "iscommandsSet": true,
+            "mqttDeviceName": "tasmota_F97A30",
+            "topicPrefixes": [
+               "cmnd",
+               "stat",
+               "tele"
+            ],
+            "friendlyName": "mqtt_heater"
+         }
+      },
+      "inputIndex": 0
+   },
+   "095b3445-ff57-4db1-b634-b80c3bd2f9a7": {
+      "payload": "{\"timestamp\":\"2024-03-14T10:18:19.194Z\"}",
+      "context": {
+         "topic": "tele/pc-receiver/SENSOR",
+         "device": {
+            "discoveryid": "pc-receiver",
+            "commands": [
+               {
+                  "name": "play/pause"
+               },
+               {
+                  "name": "volume up"
+               },
+               {
+                  "name": "volume down"
+               },
+               {
+                  "name": "hibernate"
+               }
+            ],
+            "iscommandsSet": true,
+            "mqttDeviceName": "pc-receiver",
+            "topicPrefixes": [
+               "cmnd",
+               "tele"
+            ],
+            "friendlyName": "pc-receiver"
+         }
+      }
+   },
+   "fb5f644b-1e10-4df7-a76c-f281d5d3ed23": {
+      "payload": "{\"Time\":\"2024-03-14T01:02:41\",\"ENERGY\":{\"TotalStartTime\":\"2024-01-24T11:46:29\",\"Total\":472.177,\"Yesterday\":6.045,\"Today\":0.000,\"Period\":0.000,\"Power\":0.000,\"ApparentPower\":0.000,\"ReactivePower\":0.000,\"Factor\":0.00,\"Voltage\":233,\"Current\":0.000}}",
+      "context": {
+         "topic": "tele/tasmota_F97A30/SENSOR",
+         "device": {
+            "discoveryid": "404CCAF97A30",
+            "commands": [
+               {
+                  "name": "Power0",
+                  "argument": {
+                     "type": "select",
+                     "options": [
+                        "on",
+                        "off"
+                     ]
+                  }
+               },
+               {
+                  "name": "FriendlyName",
+                  "argument": {
+                     "type": "text"
+                  },
+                  "flags": {
+                     "needsRedstart": true
+                  }
+               },
+               {
+                  "name": "SensorRetain",
+                  "argument": {
+                     "type": "select",
+                     "options": [
+                        "on",
+                        "off"
+                     ]
+                  }
+               },
+               {
+                  "name": "Restart",
+                  "argument": {
+                     "type": "select",
+                     "options": [
+                        "1"
+                     ]
+                  }
+               }
+            ],
+            "iscommandsSet": true,
+            "mqttDeviceName": "tasmota_F97A30",
+            "topicPrefixes": [
+               "cmnd",
+               "stat",
+               "tele"
+            ],
+            "friendlyName": "mqtt_heater"
+         }
+      },
+      "inputIndex": 0
+   },
+   "6a98690a-3b58-49f6-b65b-1879e2f25b29": {
+      "payload": "{\"Time\":\"2024-03-14T11:11:40\",\"ENERGY\":{\"TotalStartTime\":\"2024-01-24T11:46:29\",\"Total\":472.177,\"Yesterday\":6.045,\"Today\":0.000,\"Period\":0.000,\"Power\":0.000,\"ApparentPower\":0.000,\"ReactivePower\":0.000,\"Factor\":0.00,\"Voltage\":234,\"Current\":0.000}}",
+      "context": {
+         "topic": "tele/tasmota_F97A30/SENSOR",
+         "device": {
+            "discoveryid": "404CCAF97A30",
+            "commands": [
+               {
+                  "name": "Power0",
+                  "argument": {
+                     "type": "select",
+                     "options": [
+                        "on",
+                        "off"
+                     ]
+                  }
+               },
+               {
+                  "name": "FriendlyName",
+                  "argument": {
+                     "type": "text"
+                  },
+                  "flags": {
+                     "needsRedstart": true
+                  }
+               },
+               {
+                  "name": "SensorRetain",
+                  "argument": {
+                     "type": "select",
+                     "options": [
+                        "on",
+                        "off"
+                     ]
+                  }
+               },
+               {
+                  "name": "Restart",
+                  "argument": {
+                     "type": "select",
+                     "options": [
+                        "1"
+                     ]
+                  }
+               }
+            ],
+            "iscommandsSet": true,
+            "mqttDeviceName": "tasmota_F97A30",
+            "topicPrefixes": [
+               "cmnd",
+               "stat",
+               "tele"
+            ],
+            "friendlyName": "mqtt_heater"
+         }
+      },
+      "inputIndex": 0
+   },
+   "71de7ca7-100c-4913-b63b-57854f94b9fb": {
+      "payload": {
+         "type": "press",
+         "key": "6"
+      },
+      "context": {},
+      "inputIndex": 0
+   },
+   "373e44fc-b4fe-420e-a98d-747b9f919694": {
+      "payload": {
+         "type": "press",
+         "key": "4"
+      },
+      "context": {},
+      "inputIndex": 0
+   },
+   "4013298f-7efa-4cbc-8577-3690304ce50f": {
+      "payload": {
+         "type": "keys",
+         "data": {
+            "bluetoothboard": [],
+            "firstboard": [],
+            "footboard-ble": []
+         }
+      },
+      "context": {}
+   },
+   "fa2a7fd3-4930-4199-9fe4-0250a4ea38d0": {
+      "payload": {
+         "type": "release",
+         "key": "E"
+      },
+      "context": {},
+      "inputIndex": 0
+   }
+}

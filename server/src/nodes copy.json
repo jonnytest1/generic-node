@@ -1,0 +1,2397 @@
+{
+   "connections": [
+      {
+         "source": {
+            "index": 0,
+            "uuid": "815c2648-3a40-4ab8-8911-15355fe9bc5f"
+         },
+         "target": {
+            "uuid": "0d94c6fe-1fb0-4d8f-a24a-f3daa8b3a459",
+            "index": 0
+         }
+      },
+      {
+         "source": {
+            "index": 0,
+            "uuid": "4e65f652-7ea3-4f63-8f41-8cc2446de550"
+         },
+         "target": {
+            "uuid": "113d1cd8-4a77-4986-81b7-8acdc1186fd9",
+            "index": 0
+         }
+      },
+      {
+         "source": {
+            "index": 0,
+            "uuid": "d323ad4c-0fc4-4c34-bd07-ef65630e61e9"
+         },
+         "target": {
+            "uuid": "71de7ca7-100c-4913-b63b-57854f94b9fb",
+            "index": 0
+         }
+      },
+      {
+         "source": {
+            "index": 0,
+            "uuid": "8fbf61fa-e447-43f7-81c4-1f1bb608d32e"
+         },
+         "target": {
+            "uuid": "373e44fc-b4fe-420e-a98d-747b9f919694",
+            "index": 0
+         }
+      },
+      {
+         "source": {
+            "index": 0,
+            "uuid": "c6d42874-00c0-4c1e-834d-438f98101d83"
+         },
+         "target": {
+            "uuid": "3fad69a3-083b-47b4-ab37-c3cfb1bbf552",
+            "index": 0
+         }
+      },
+      {
+         "source": {
+            "index": 0,
+            "uuid": "0d94c6fe-1fb0-4d8f-a24a-f3daa8b3a459"
+         },
+         "target": {
+            "uuid": "53bf157e-06ca-4e3d-98b9-28f767b3270b",
+            "index": 0
+         }
+      },
+      {
+         "source": {
+            "index": 0,
+            "uuid": "bd273288-9d11-4aaf-acee-9e4edeaa1a97"
+         },
+         "target": {
+            "uuid": "d1ec37e2-5dee-437f-ac52-041dfdb27618",
+            "index": 0
+         }
+      },
+      {
+         "source": {
+            "index": 0,
+            "uuid": "a8050046-482f-4d01-8c42-73fd87530293"
+         },
+         "target": {
+            "uuid": "a055539b-f4c2-430e-85af-91de5bfd5553",
+            "index": 0
+         }
+      },
+      {
+         "source": {
+            "index": 0,
+            "uuid": "ff609761-2570-4d46-a533-99f71de6f745"
+         },
+         "target": {
+            "uuid": "1377c74e-cb20-4c7c-9ded-77aaa864a436",
+            "index": 0
+         }
+      },
+      {
+         "source": {
+            "index": 0,
+            "uuid": "1377c74e-cb20-4c7c-9ded-77aaa864a436"
+         },
+         "target": {
+            "uuid": "c6d42874-00c0-4c1e-834d-438f98101d83",
+            "index": 0
+         }
+      },
+      {
+         "source": {
+            "index": 0,
+            "uuid": "4fa2e476-f410-42ff-8b42-b2fc277d3060"
+         },
+         "target": {
+            "uuid": "0293eac9-d029-4ee2-936d-46529fef9047",
+            "index": 0
+         }
+      },
+      {
+         "source": {
+            "index": 0,
+            "uuid": "190a55f5-09d9-4002-9e14-25e008380907"
+         },
+         "target": {
+            "uuid": "04ed832e-1fff-423a-b471-d47ce3ae3a2d",
+            "index": 0
+         }
+      },
+      {
+         "source": {
+            "index": 0,
+            "uuid": "41a5f92f-d801-44e1-80c6-43f3d3d86127"
+         },
+         "target": {
+            "uuid": "77313db6-db6d-468a-bf23-6aec4061541e",
+            "index": 0
+         }
+      },
+      {
+         "source": {
+            "index": 0,
+            "uuid": "b18afac9-cfef-40d4-b98e-eadf2faddef0"
+         },
+         "target": {
+            "uuid": "12238d09-f044-40a8-b0bd-082f0464b8e0",
+            "index": 0
+         }
+      },
+      {
+         "source": {
+            "index": 0,
+            "uuid": "b19ae3dd-ec10-47df-9b4d-2b00f4d47bd0"
+         },
+         "target": {
+            "uuid": "a2fb34e5-180a-474d-96e3-59930fe3fa6e",
+            "index": 0
+         }
+      },
+      {
+         "source": {
+            "index": 0,
+            "uuid": "f6649dcd-e2b9-441d-a2fb-92529384a136"
+         },
+         "target": {
+            "uuid": "a766422a-6f2f-4a8d-a126-7c4bc9d023fe",
+            "index": 0
+         }
+      },
+      {
+         "source": {
+            "index": 0,
+            "uuid": "6af3c400-dfca-479a-aa74-60bb5c1e5bc1"
+         },
+         "target": {
+            "uuid": "92e71926-b39f-43bc-b386-99a9cc693fff",
+            "index": 0
+         }
+      },
+      {
+         "source": {
+            "index": 0,
+            "uuid": "e4f779ca-08eb-4da7-a757-47e16494f40b"
+         },
+         "target": {
+            "uuid": "7bb63464-5c65-490e-a8fa-ac6e556fa75a",
+            "index": 0
+         }
+      },
+      {
+         "source": {
+            "index": 0,
+            "uuid": "5190cfb5-7927-491f-a222-402644f52f55"
+         },
+         "target": {
+            "uuid": "7970e18c-1751-4cef-9f98-31b94aef17bc",
+            "index": 0
+         }
+      },
+      {
+         "source": {
+            "index": 0,
+            "uuid": "26b766e2-6d27-4bf7-8bfd-426e519ded8e"
+         },
+         "target": {
+            "uuid": "63785199-8ffb-4cbf-b182-ced2f3b1dbfb",
+            "index": 0
+         }
+      },
+      {
+         "source": {
+            "index": 0,
+            "uuid": "0293eac9-d029-4ee2-936d-46529fef9047"
+         },
+         "target": {
+            "uuid": "64f23a8d-593d-43d5-8a8e-aca12336c428",
+            "index": 0
+         }
+      },
+      {
+         "source": {
+            "index": 0,
+            "uuid": "04ed832e-1fff-423a-b471-d47ce3ae3a2d"
+         },
+         "target": {
+            "uuid": "f704dcb6-c98a-4d51-bd47-8ffe1f5f6fe5",
+            "index": 0
+         }
+      },
+      {
+         "source": {
+            "index": 0,
+            "uuid": "77313db6-db6d-468a-bf23-6aec4061541e"
+         },
+         "target": {
+            "uuid": "8c66d9b7-7b04-4265-9810-47c3824c67ee",
+            "index": 0
+         }
+      },
+      {
+         "source": {
+            "index": 0,
+            "uuid": "12238d09-f044-40a8-b0bd-082f0464b8e0"
+         },
+         "target": {
+            "uuid": "5fef784e-b38f-42ef-9869-9a9a6b97857a",
+            "index": 0
+         }
+      },
+      {
+         "source": {
+            "index": 0,
+            "uuid": "a2fb34e5-180a-474d-96e3-59930fe3fa6e"
+         },
+         "target": {
+            "uuid": "f0ebf0a1-cbb8-4942-aac3-84acccac0123",
+            "index": 0
+         }
+      },
+      {
+         "source": {
+            "index": 0,
+            "uuid": "a766422a-6f2f-4a8d-a126-7c4bc9d023fe"
+         },
+         "target": {
+            "uuid": "60ccb76a-12fd-43d2-a3b9-82b5e2c6df3b",
+            "index": 0
+         }
+      },
+      {
+         "source": {
+            "index": 0,
+            "uuid": "92e71926-b39f-43bc-b386-99a9cc693fff"
+         },
+         "target": {
+            "uuid": "7b411174-cfbb-49eb-908d-fafc867f1ff2",
+            "index": 0
+         }
+      },
+      {
+         "source": {
+            "index": 0,
+            "uuid": "7bb63464-5c65-490e-a8fa-ac6e556fa75a"
+         },
+         "target": {
+            "uuid": "8180fd49-1a4f-4879-81d1-1f641f34471d",
+            "index": 0
+         }
+      },
+      {
+         "source": {
+            "index": 0,
+            "uuid": "7970e18c-1751-4cef-9f98-31b94aef17bc"
+         },
+         "target": {
+            "uuid": "b3f1e4c2-8cf9-497e-8b5a-12bbfd90a89e",
+            "index": 0
+         }
+      },
+      {
+         "source": {
+            "index": 0,
+            "uuid": "63785199-8ffb-4cbf-b182-ced2f3b1dbfb"
+         },
+         "target": {
+            "uuid": "174b2622-3ad9-4712-93fe-0ace8579184d",
+            "index": 0
+         }
+      },
+      {
+         "source": {
+            "index": 0,
+            "uuid": "174b2622-3ad9-4712-93fe-0ace8579184d"
+         },
+         "target": {
+            "uuid": "1872ddc6-b784-4735-90d5-324f5c0f490d",
+            "index": 0
+         }
+      },
+      {
+         "source": {
+            "index": 0,
+            "uuid": "b3f1e4c2-8cf9-497e-8b5a-12bbfd90a89e"
+         },
+         "target": {
+            "uuid": "1872ddc6-b784-4735-90d5-324f5c0f490d",
+            "index": 0
+         }
+      },
+      {
+         "source": {
+            "index": 0,
+            "uuid": "8180fd49-1a4f-4879-81d1-1f641f34471d"
+         },
+         "target": {
+            "uuid": "1872ddc6-b784-4735-90d5-324f5c0f490d",
+            "index": 0
+         }
+      },
+      {
+         "source": {
+            "index": 0,
+            "uuid": "7b411174-cfbb-49eb-908d-fafc867f1ff2"
+         },
+         "target": {
+            "uuid": "1872ddc6-b784-4735-90d5-324f5c0f490d",
+            "index": 0
+         }
+      },
+      {
+         "source": {
+            "index": 0,
+            "uuid": "60ccb76a-12fd-43d2-a3b9-82b5e2c6df3b"
+         },
+         "target": {
+            "uuid": "1872ddc6-b784-4735-90d5-324f5c0f490d",
+            "index": 0
+         }
+      },
+      {
+         "source": {
+            "index": 0,
+            "uuid": "f0ebf0a1-cbb8-4942-aac3-84acccac0123"
+         },
+         "target": {
+            "uuid": "1872ddc6-b784-4735-90d5-324f5c0f490d",
+            "index": 0
+         }
+      },
+      {
+         "source": {
+            "index": 0,
+            "uuid": "5fef784e-b38f-42ef-9869-9a9a6b97857a"
+         },
+         "target": {
+            "uuid": "1872ddc6-b784-4735-90d5-324f5c0f490d",
+            "index": 0
+         }
+      },
+      {
+         "source": {
+            "index": 0,
+            "uuid": "8c66d9b7-7b04-4265-9810-47c3824c67ee"
+         },
+         "target": {
+            "uuid": "1872ddc6-b784-4735-90d5-324f5c0f490d",
+            "index": 0
+         }
+      },
+      {
+         "source": {
+            "index": 0,
+            "uuid": "f704dcb6-c98a-4d51-bd47-8ffe1f5f6fe5"
+         },
+         "target": {
+            "uuid": "1872ddc6-b784-4735-90d5-324f5c0f490d",
+            "index": 0
+         }
+      },
+      {
+         "source": {
+            "index": 0,
+            "uuid": "64f23a8d-593d-43d5-8a8e-aca12336c428"
+         },
+         "target": {
+            "uuid": "1872ddc6-b784-4735-90d5-324f5c0f490d",
+            "index": 0
+         }
+      }
+   ],
+   "nodes": [
+      {
+         "position": {
+            "y": 53,
+            "x": 570
+         },
+         "type": "key binding",
+         "uuid": "815c2648-3a40-4ab8-8911-15355fe9bc5f",
+         "parameters": {
+            "board": "bluetoothboard",
+            "key": "A",
+            "mode": "press"
+         },
+         "runtimeContext": {
+            "info": "bluetoothboard - A",
+            "lastEvent": {
+               "payload": {
+                  "type": "keys",
+                  "data": {
+                     "bluetoothboard": [],
+                     "firstboard": [],
+                     "footboard-ble": []
+                  }
+               },
+               "context": {}
+            },
+            "lastEventTime": 1707680053726,
+            "lastOutputEventTime": 1707670028449,
+            "outputSchema": {
+               "jsonSchema": {
+                  "type": "object",
+                  "additionalProperties": false,
+                  "required": [
+                     "type",
+                     "key"
+                  ],
+                  "properties": {
+                     "type": {
+                        "type": "string",
+                        "const": "press"
+                     },
+                     "key": {
+                        "type": "string",
+                        "enum": [
+                           "A"
+                        ]
+                     }
+                  }
+               },
+               "mainTypeName": "Main",
+               "dts": "export interface Main {\n    key:  Key;\n    type: Type;\n}\n\nexport type Key = \"A\";\n\nexport type Type = \"press\";"
+            },
+            "parameters": {
+               "board": {
+                  "type": "select",
+                  "options": [
+                     "bluetoothboard",
+                     "firstboard",
+                     "footboard-ble"
+                  ],
+                  "order": 2
+               },
+               "key": {
+                  "type": "iframe",
+                  "document": "<head>\r\n  <style>\r\n    #columns-wrapper {\r\n      display: flex;\r\n      gap: 8px;\r\n    }\r\n\r\n    .column {\r\n      display: flex;\r\n      flex-direction: column;\r\n      justify-content: space-around;\r\n      gap: 8px;\r\n    }\r\n\r\n    .item input {\r\n      height: 16px;\r\n      width: 16px;\r\n    }\r\n\r\n    .label {\r\n      display: inline-block;\r\n      transform: translateY(-2px);\r\n    }\r\n\r\n    .item input:checked+label.label {\r\n      font-weight: bold;\r\n    }\r\n  </style>\r\n</head>\r\n\r\n<body style=\"width:fit-content;margin: unset;\">\r\n  <form id=\"propertyform\"\r\n        style=\"width: fit-content;\">\r\n    <div id=\"columns-wrapper\">\r\n\r\n    </div>\r\n  </form>\r\n\r\n  <script>\r\n    addEventListener(\"message\", e => {\r\n      /**\r\n       * @type {{type:\"data\",data:unknown,current:string}}\r\n       */\r\n      const evt = JSON.parse(e.data)\r\n\r\n      if(evt.type === \"data\") {\r\n        /**\r\n         * @type {Array<Array<string>>}\r\n         */\r\n        const data = evt.data\r\n        const port = e.ports[0]\r\n\r\n        document.body.style.width = \"20000px\"\r\n        document.body.style.height = \"20000px\"\r\n\r\n        for(const column of data) {\r\n          const columnItem = document.createElement(\"div\")\r\n          columnItem.classList.add(\"column\")\r\n\r\n          for(const item of column) {\r\n\r\n            const itemWrapper = document.createElement(\"div\")\r\n            itemWrapper.classList.add(\"item\")\r\n            const inputItem = document.createElement(\"input\")\r\n            inputItem.type = \"radio\"\r\n            inputItem.name = \"key\"\r\n            //inputItem.hidden = true\r\n            inputItem.id = \"key_\" + item\r\n            inputItem.value = item\r\n            inputItem.classList.add(\"input\")\r\n            inputItem.checked = item === evt.current\r\n\r\n            itemWrapper.appendChild(inputItem)\r\n\r\n            const labelItem = document.createElement(\"label\")\r\n            labelItem.setAttribute(\"for\", \"key_\" + item)\r\n            labelItem.textContent = item\r\n            labelItem.classList.add(\"label\")\r\n\r\n            itemWrapper.appendChild(labelItem)\r\n\r\n            columnItem.appendChild(itemWrapper)\r\n\r\n          }\r\n\r\n          document.querySelector(\"#columns-wrapper\").appendChild(columnItem)\r\n        }\r\n        const form = document.querySelector(\"#propertyform\")\r\n        form.addEventListener(\"change\", e => {\r\n          const options = Object.fromEntries(new FormData(form).entries())\r\n          port.postMessage(JSON.stringify({\r\n            type: \"change\",\r\n            data: options.key\r\n          }))\r\n        })\r\n        const rect = form.getBoundingClientRect()\r\n        port.postMessage(JSON.stringify({\r\n          type: \"size\",\r\n          size: rect\r\n        }))\r\n      }\r\n    })\r\n  </script>\r\n\r\n</body>",
+                  "data": [
+                     [
+                        "A",
+                        "E",
+                        "I"
+                     ],
+                     [
+                        "B",
+                        "F",
+                        "J"
+                     ],
+                     [
+                        "C",
+                        "G",
+                        "K"
+                     ],
+                     [
+                        "D",
+                        "H",
+                        "L"
+                     ],
+                     [],
+                     [
+                        "1",
+                        "4"
+                     ],
+                     [
+                        "2",
+                        "5"
+                     ],
+                     [
+                        "3",
+                        "6"
+                     ]
+                  ]
+               }
+            }
+         }
+      },
+      {
+         "position": {
+            "y": 72,
+            "x": 870
+         },
+         "type": "map",
+         "uuid": "0d94c6fe-1fb0-4d8f-a24a-f3daa8b3a459",
+         "runtimeContext": {
+            "lastEventTime": 1707670028453,
+            "lastOutputEventTime": 1707670028454,
+            "schema": {
+               "type": "boolean",
+               "$schema": "http://json-schema.org/draft-07/schema#"
+            },
+            "lastEvent": {
+               "payload": {
+                  "type": "press",
+                  "key": "A"
+               },
+               "context": {}
+            },
+            "outputSchema": {
+               "jsonSchema": {
+                  "type": "string",
+                  "const": "on",
+                  "definitions": {}
+               },
+               "mainTypeName": "Main",
+               "dts": "export type Main = \"on\";"
+            },
+            "editorSchema": {
+               "dts": "\n            export interface Main {\n    key:  Key;\n    type: Type;\n}\n\nexport type Key = \"A\";\n\nexport type Type = \"press\";\n\n            type InputType=Main\n\n            \r\n\r\nexport interface TransformationRes extends SenderResponse {\r\n  status?: number;\r\n  error?: number;\r\n\r\n\r\n  response?: {\r\n    [key: string]: unknown\r\n  }\r\n\r\n}\r\n\r\n\r\nexport interface ConnectionResponse extends TransformationRes {\r\n\r\n  withRequest?: boolean\r\n}\r\n\r\n\r\nexport interface Delayed<T> {\r\n\r\n  nestedObject: T,\r\n  sentData: InputType\r\n  time: number\r\n}\r\n\r\n\r\n//globals start\r\ndeclare global {\r\n  type TransformationResponse = TransformationRes;\r\n  function delay<T extends SenderResponse>(time: number, res: T): Delayed<T>\r\n  let data: DataObj\r\n}\r\n\r\n\r\n//globals end\r\ninterface DataObj {\r\n  usedTransformation: {\r\n    name: string\r\n  }\r\n}\r\n\r\n\r\ninterface NotificationData<SoundDef = SoundType> {\r\n  title?: string;\r\n  sound?: SoundDef;\r\n  body?: string;\r\n}\r\n\r\nexport interface SenderResponse<SoundDef = SoundType, NotificationType = NotificationData<SoundDef>> {\r\n  promise?: Delayed<SenderResponse>;\r\n  notification?: NotificationType,\r\n\r\n  attributes?: {\r\n    messageId?: string\r\n  }\r\n\r\n  read?: {\r\n    text: string\r\n  }\r\n\r\n}\r\n\r\nexport type SoundType = soundListRuntime | '*' | Array<soundListRuntime>\r\n\r\ntype soundListRuntime = string\n      ",
+               "globals": "\n            type TransformationResponse = EditorSchema.TransformationRes;\n            function delay<T extends EditorSchema.SenderResponse>(time: number, res: T): EditorSchema.Delayed<T>\n      "
+            },
+            "parameters": {
+               "code": {
+                  "type": "monaco"
+               }
+            }
+         },
+         "parameters": {
+            "code_jscode": "function map(input:InputType){\n\n}",
+            "code": "{\"tsCode\":\"function map(input:InputType){\\n   return \\\"on\\\" as const\\n}\",\"jsCode\":\"function map(input) {\\n    return \\\"on\\\";\\n}\\n\"}"
+         }
+      },
+      {
+         "position": {
+            "y": 176,
+            "x": 643
+         },
+         "type": "key binding",
+         "uuid": "4e65f652-7ea3-4f63-8f41-8cc2446de550",
+         "runtimeContext": {
+            "schema": null,
+            "info": "bluetoothboard - B",
+            "lastEventTime": 1707680053727,
+            "lastOutputEventTime": 1707611951338,
+            "lastEvent": {
+               "payload": {
+                  "type": "keys",
+                  "data": {
+                     "bluetoothboard": [],
+                     "firstboard": [],
+                     "footboard-ble": []
+                  }
+               },
+               "context": {}
+            },
+            "outputSchema": {
+               "jsonSchema": {
+                  "type": "object",
+                  "additionalProperties": false,
+                  "required": [
+                     "type",
+                     "key"
+                  ],
+                  "properties": {
+                     "type": {
+                        "type": "string",
+                        "const": "press"
+                     },
+                     "key": {
+                        "type": "string",
+                        "enum": [
+                           "B"
+                        ]
+                     }
+                  }
+               },
+               "dts": "export interface Main {\n    key:  Key;\n    type: Type;\n}\n\nexport type Key = \"B\";\n\nexport type Type = \"press\";"
+            }
+         },
+         "parameters": {
+            "board": "bluetoothboard",
+            "key": "B",
+            "mode": "press"
+         }
+      },
+      {
+         "position": {
+            "y": 172,
+            "x": 1052
+         },
+         "type": "mqtt publish",
+         "uuid": "113d1cd8-4a77-4986-81b7-8acdc1186fd9",
+         "runtimeContext": {
+            "info": "mqtt_heater - Power0 - off",
+            "parameters": {
+               "command": {
+                  "type": "select",
+                  "options": [
+                     "Power0",
+                     "FriendlyName"
+                  ]
+               },
+               "argument": {
+                  "type": "select",
+                  "options": [
+                     "on",
+                     "off",
+                     "<payload>"
+                  ]
+               }
+            },
+            "lastEventTime": 1707611951343,
+            "lastOutputEventTime": 1707611951350,
+            "lastEvent": {
+               "payload": {
+                  "type": "press",
+                  "key": "B"
+               },
+               "context": {}
+            }
+         },
+         "parameters": {
+            "topic": "cmnd/tasmota_F97A30/",
+            "command": "Power0",
+            "argument": "off"
+         }
+      },
+      {
+         "position": {
+            "y": 315,
+            "x": 1129
+         },
+         "type": "map",
+         "uuid": "c6d42874-00c0-4c1e-834d-438f98101d83",
+         "runtimeContext": {
+            "lastEventTime": 1707670027844,
+            "lastOutputEventTime": 1707670027849,
+            "schema": {
+               "type": "boolean",
+               "$schema": "http://json-schema.org/draft-07/schema#"
+            },
+            "outputSchema": {
+               "jsonSchema": {
+                  "type": "boolean",
+                  "$schema": "http://json-schema.org/draft-07/schema#"
+               },
+               "mainTypeName": "Main",
+               "dts": "export type Main = boolean;"
+            },
+            "lastEvent": {
+               "payload": {
+                  "key": "C",
+                  "type": "press"
+               },
+               "context": {}
+            },
+            "editorSchema": {
+               "dts": "\n\n   type MappedObject<T extends string> = {\n  [key in T]: any\n}\n\nexport interface Main {\n    key:  Key;\n    type: Type;\n}\n\nexport type Key = \"C\";\n\nexport type Type = \"press\";\n\ntype InputType=Main\n\n\r\n\r\nexport interface TransformationRes extends SenderResponse {\r\n  status?: number;\r\n  error?: number;\r\n\r\n\r\n  response?: {\r\n    [key: string]: unknown\r\n  }\r\n\r\n}\r\n\r\n\r\nexport interface ConnectionResponse extends TransformationRes {\r\n\r\n  withRequest?: boolean\r\n}\r\n\r\n\r\nexport interface Delayed<T> {\r\n\r\n  nestedObject: T,\r\n  sentData: InputType\r\n  time: number\r\n}\r\n\r\n\r\n//globals start\r\ndeclare global {\r\n  type TransformationResponse = TransformationRes;\r\n  function delay<T extends SenderResponse>(time: number, res: T): Delayed<T>\r\n  let data: DataObj\r\n}\r\n\r\n\r\n//globals end\r\ninterface DataObj {\r\n  usedTransformation: {\r\n    name: string\r\n  }\r\n}\r\n\r\n\r\ninterface NotificationData<SoundDef = SoundType> {\r\n  title?: string;\r\n  sound?: SoundDef;\r\n  body?: string;\r\n}\r\n\r\nexport interface SenderResponse<SoundDef = SoundType, NotificationType = NotificationData<SoundDef>> {\r\n  promise?: Delayed<SenderResponse>;\r\n  notification?: NotificationType,\r\n\r\n  attributes?: {\r\n    messageId?: string\r\n  }\r\n\r\n  read?: {\r\n    text: string\r\n  }\r\n\r\n}\r\n\r\nexport type SoundType = soundListRuntime | '*' | Array<soundListRuntime>\r\n\r\ntype soundListRuntime = string\n\n\ndeclare function mapOnObject<T, K extends keyof T>(input: T, key: K, mapping: MappedObject<T[K] & string>)\n      "
+            },
+            "parameters": {
+               "code": {
+                  "type": "monaco"
+               }
+            }
+         },
+         "parameters": {
+            "code": "{\"tsCode\":\"function map(input:InputType){\\n    return input.key.includes(\\\"C\\\")\\n}\",\"timestamp\":1708455948092,\"jsCode\":\"function map(input) {\\n    return input.key.includes(\\\"C\\\");\\n}\\n\",\"node\":\"c6d42874-00c0-4c1e-834d-438f98101d83\"}",
+            "code_jscode": "function map(input) {\n    return input.key.includes(\"A\");\n}\n",
+            "mode": "map"
+         }
+      },
+      {
+         "position": {
+            "y": 311,
+            "x": 650
+         },
+         "type": "key binding",
+         "uuid": "ff609761-2570-4d46-a533-99f71de6f745",
+         "runtimeContext": {
+            "schema": null,
+            "info": "bluetoothboard - C",
+            "lastEventTime": 1707680053731,
+            "lastOutputEventTime": 1707670027684,
+            "lastEvent": {
+               "payload": {
+                  "type": "keys",
+                  "data": {
+                     "bluetoothboard": [],
+                     "firstboard": [],
+                     "footboard-ble": []
+                  }
+               },
+               "context": {}
+            },
+            "outputSchema": {
+               "jsonSchema": {
+                  "type": "object",
+                  "additionalProperties": false,
+                  "required": [
+                     "type",
+                     "key"
+                  ],
+                  "properties": {
+                     "type": {
+                        "type": "string",
+                        "const": "press"
+                     },
+                     "key": {
+                        "type": "string",
+                        "enum": [
+                           "C"
+                        ]
+                     }
+                  }
+               },
+               "dts": "export interface Main {\n    key:  Key;\n    type: Type;\n}\n\nexport type Key = \"C\";\n\nexport type Type = \"press\";"
+            }
+         },
+         "parameters": {
+            "board": "bluetoothboard",
+            "key": "C",
+            "mode": "press"
+         }
+      },
+      {
+         "position": {
+            "y": 162,
+            "x": 318
+         },
+         "type": "mqtt publish",
+         "uuid": "71de7ca7-100c-4913-b63b-57854f94b9fb",
+         "runtimeContext": {
+            "info": "pc-receiver",
+            "parameters": {
+               "command": {
+                  "type": "select",
+                  "options": [
+                     "play/pause",
+                     "volume up",
+                     "volume down",
+                     "hibernate"
+                  ]
+               }
+            }
+         },
+         "parameters": {
+            "topic": "cmnd/pc-receiver/",
+            "command": "volume up",
+            "argument": "",
+            "mqtt_server": "mqtt://192.168.178.54"
+         }
+      },
+      {
+         "position": {
+            "y": 175,
+            "x": 54
+         },
+         "type": "key binding",
+         "uuid": "d323ad4c-0fc4-4c34-bd07-ef65630e61e9",
+         "runtimeContext": {
+            "outputSchema": {
+               "jsonSchema": {
+                  "type": "object",
+                  "additionalProperties": false,
+                  "required": [
+                     "type",
+                     "key"
+                  ],
+                  "properties": {
+                     "type": {
+                        "type": "string",
+                        "const": "press"
+                     },
+                     "key": {
+                        "type": "string",
+                        "enum": [
+                           "6"
+                        ]
+                     }
+                  }
+               },
+               "dts": "export interface Main {\n    key:  Key;\n    type: Type;\n}\n\nexport type Key = \"6\";\n\nexport type Type = \"press\";"
+            },
+            "info": "bluetoothboard - 6",
+            "parameters": {
+               "key": {
+                  "type": "iframe",
+                  "document": "<html style=\"overflow: hidden\">\r\n\r\n  <head>\r\n    <style>\r\n      #columns-wrapper {\r\n        display: flex;\r\n        gap: 8px;\r\n      }\r\n\r\n      .column {\r\n        display: flex;\r\n        flex-direction: column;\r\n        justify-content: space-around;\r\n        gap: 8px;\r\n      }\r\n    </style>\r\n  </head>\r\n\r\n  <body style=\"width:fit-content;margin: unset;\">\r\n    <form id=\"propertyform\"\r\n          style=\"width: fit-content;\">\r\n      <div id=\"columns-wrapper\">\r\n\r\n      </div>\r\n    </form>\r\n\r\n    <script>\r\n      addEventListener(\"message\", e => {\r\n        /**\r\n         * @type {{type:\"data\",data:unknown,current:string}}\r\n         */\r\n        const evt = JSON.parse(e.data)\r\n\r\n        if(evt.type === \"data\") {\r\n          /**\r\n           * @type {Array<Array<string>>}\r\n           */\r\n          const data = evt.data\r\n          const port = e.ports[0]\r\n\r\n          document.body.style.width = \"20000px\"\r\n          document.body.style.height = \"20000px\"\r\n\r\n          for(const column of data) {\r\n            const columnItem = document.createElement(\"div\")\r\n            columnItem.classList.add(\"column\")\r\n\r\n            for(const item of column) {\r\n\r\n              const itemWrapper = document.createElement(\"div\")\r\n              itemWrapper.classList.add(\"item\")\r\n              const inputItem = document.createElement(\"input\")\r\n              inputItem.type = \"radio\"\r\n              inputItem.name = \"key\"\r\n              inputItem.id = \"key_\" + item\r\n              inputItem.value = item\r\n              inputItem.classList.add(\"input\")\r\n              inputItem.checked = item === evt.current\r\n\r\n              itemWrapper.appendChild(inputItem)\r\n\r\n              const labelItem = document.createElement(\"label\")\r\n              labelItem.for = \"key_\" + item\r\n              labelItem.textContent = item\r\n              labelItem.classList.add(\"label\")\r\n\r\n              itemWrapper.appendChild(labelItem)\r\n\r\n              columnItem.appendChild(itemWrapper)\r\n\r\n            }\r\n\r\n            document.querySelector(\"#columns-wrapper\").appendChild(columnItem)\r\n          }\r\n          const form = document.querySelector(\"#propertyform\")\r\n          form.addEventListener(\"change\", e => {\r\n            const options = Object.fromEntries(new FormData(form).entries())\r\n            port.postMessage(JSON.stringify({\r\n              type: \"change\",\r\n              data: options.key\r\n            }))\r\n          })\r\n          const rect = form.getBoundingClientRect()\r\n          port.postMessage(JSON.stringify({\r\n            type: \"size\",\r\n            size: rect\r\n          }))\r\n        }\r\n      })\r\n    </script>\r\n\r\n  </body>\r\n\r\n</html>",
+                  "data": [
+                     [
+                        "A",
+                        "E",
+                        "I"
+                     ],
+                     [
+                        "B",
+                        "F",
+                        "J"
+                     ],
+                     [
+                        "C",
+                        "G",
+                        "K"
+                     ],
+                     [
+                        "D",
+                        "H",
+                        "L"
+                     ],
+                     [],
+                     [
+                        "1",
+                        "4"
+                     ],
+                     [
+                        "2",
+                        "5"
+                     ],
+                     [
+                        "3",
+                        "6"
+                     ]
+                  ]
+               }
+            }
+         },
+         "parameters": {
+            "board": "bluetoothboard",
+            "key": "6",
+            "mode": "press"
+         }
+      },
+      {
+         "position": {
+            "y": 71,
+            "x": 55
+         },
+         "type": "key binding",
+         "uuid": "8fbf61fa-e447-43f7-81c4-1f1bb608d32e",
+         "runtimeContext": {
+            "outputSchema": {
+               "jsonSchema": {
+                  "type": "object",
+                  "additionalProperties": false,
+                  "required": [
+                     "type",
+                     "key"
+                  ],
+                  "properties": {
+                     "type": {
+                        "type": "string",
+                        "const": "press"
+                     },
+                     "key": {
+                        "type": "string",
+                        "enum": [
+                           "4"
+                        ]
+                     }
+                  }
+               },
+               "mainTypeName": "Main",
+               "dts": "export interface Main {\n    key:  Key;\n    type: Type;\n}\n\nexport type Key = \"4\";\n\nexport type Type = \"press\";"
+            },
+            "info": "bluetoothboard - 4",
+            "parameters": {
+               "key": {
+                  "type": "iframe",
+                  "document": "<head>\r\n  <style>\r\n    #columns-wrapper {\r\n      display: flex;\r\n      gap: 8px;\r\n    }\r\n\r\n    .column {\r\n      display: flex;\r\n      flex-direction: column;\r\n      justify-content: space-around;\r\n      gap: 8px;\r\n    }\r\n\r\n    .item input {\r\n      height: 16px;\r\n      width: 16px;\r\n    }\r\n\r\n    .label {\r\n      display: inline-block;\r\n      transform: translateY(-2px);\r\n    }\r\n\r\n    .item input:checked+label.label {\r\n      font-weight: bold;\r\n    }\r\n  </style>\r\n</head>\r\n\r\n<body style=\"width:fit-content;margin: unset;\">\r\n  <form id=\"propertyform\"\r\n        style=\"width: fit-content;\">\r\n    <div id=\"columns-wrapper\">\r\n\r\n    </div>\r\n  </form>\r\n\r\n  <script>\r\n    addEventListener(\"message\", e => {\r\n      /**\r\n       * @type {{type:\"data\",data:unknown,current:string}}\r\n       */\r\n      const evt = JSON.parse(e.data)\r\n\r\n      if(evt.type === \"data\") {\r\n        /**\r\n         * @type {Array<Array<string>>}\r\n         */\r\n        const data = evt.data\r\n        const port = e.ports[0]\r\n\r\n        document.body.style.width = \"20000px\"\r\n        document.body.style.height = \"20000px\"\r\n\r\n        for(const column of data) {\r\n          const columnItem = document.createElement(\"div\")\r\n          columnItem.classList.add(\"column\")\r\n\r\n          for(const item of column) {\r\n\r\n            const itemWrapper = document.createElement(\"div\")\r\n            itemWrapper.classList.add(\"item\")\r\n            const inputItem = document.createElement(\"input\")\r\n            inputItem.type = \"radio\"\r\n            inputItem.name = \"key\"\r\n            //inputItem.hidden = true\r\n            inputItem.id = \"key_\" + item\r\n            inputItem.value = item\r\n            inputItem.classList.add(\"input\")\r\n            inputItem.checked = item === evt.current\r\n\r\n            itemWrapper.appendChild(inputItem)\r\n\r\n            const labelItem = document.createElement(\"label\")\r\n            labelItem.setAttribute(\"for\", \"key_\" + item)\r\n            labelItem.textContent = item\r\n            labelItem.classList.add(\"label\")\r\n\r\n            itemWrapper.appendChild(labelItem)\r\n\r\n            columnItem.appendChild(itemWrapper)\r\n\r\n          }\r\n\r\n          document.querySelector(\"#columns-wrapper\").appendChild(columnItem)\r\n        }\r\n        const form = document.querySelector(\"#propertyform\")\r\n        form.addEventListener(\"change\", e => {\r\n          const options = Object.fromEntries(new FormData(form).entries())\r\n          port.postMessage(JSON.stringify({\r\n            type: \"change\",\r\n            data: options.key\r\n          }))\r\n        })\r\n        const rect = form.getBoundingClientRect()\r\n        port.postMessage(JSON.stringify({\r\n          type: \"size\",\r\n          size: rect\r\n        }))\r\n      }\r\n    })\r\n  </script>\r\n\r\n</body>",
+                  "data": [
+                     [
+                        "A",
+                        "E",
+                        "I"
+                     ],
+                     [
+                        "B",
+                        "F",
+                        "J"
+                     ],
+                     [
+                        "C",
+                        "G",
+                        "K"
+                     ],
+                     [
+                        "D",
+                        "H",
+                        "L"
+                     ],
+                     [],
+                     [
+                        "1",
+                        "4"
+                     ],
+                     [
+                        "2",
+                        "5"
+                     ],
+                     [
+                        "3",
+                        "6"
+                     ]
+                  ]
+               },
+               "board": {
+                  "type": "select",
+                  "options": [
+                     "bluetoothboard",
+                     "firstboard",
+                     "footboard-ble"
+                  ],
+                  "order": 2
+               }
+            }
+         },
+         "parameters": {
+            "board": "bluetoothboard",
+            "key": "4",
+            "mode": "press"
+         }
+      },
+      {
+         "position": {
+            "y": 84,
+            "x": 305
+         },
+         "type": "mqtt publish",
+         "uuid": "373e44fc-b4fe-420e-a98d-747b9f919694",
+         "runtimeContext": {
+            "info": "pc-receiver",
+            "parameters": {
+               "command": {
+                  "type": "select",
+                  "options": [
+                     "play/pause",
+                     "volume up",
+                     "volume down",
+                     "hibernate"
+                  ]
+               }
+            }
+         },
+         "parameters": {
+            "topic": "cmnd/pc-receiver/",
+            "command": "volume down",
+            "argument": ""
+         }
+      },
+      {
+         "position": {
+            "y": 374.39024390243907,
+            "x": 1368.2926829268295
+         },
+         "type": "action",
+         "uuid": "3fad69a3-083b-47b4-ab37-c3cfb1bbf552",
+         "runtimeContext": {
+            "parameters": {
+               "receiver": {
+                  "type": "select",
+                  "options": [
+                     "pc-receiver",
+                     "lamp-component",
+                     "water-supply",
+                     "alarm",
+                     "radio"
+                  ]
+               },
+               "action": {
+                  "type": "select",
+                  "options": [
+                     "off (direct)",
+                     "on (direct)"
+                  ]
+               }
+            }
+         },
+         "parameters": {
+            "receiver": "lamp-component",
+            "action": "on"
+         }
+      },
+      {
+         "position": {
+            "y": 66,
+            "x": 1142
+         },
+         "type": "mqtt publish",
+         "uuid": "53bf157e-06ca-4e3d-98b9-28f767b3270b",
+         "runtimeContext": {
+            "info": "mqtt_heater - Power0 - on",
+            "parameters": {
+               "command": {
+                  "type": "select",
+                  "options": [
+                     "Power0",
+                     "FriendlyName"
+                  ]
+               },
+               "argument": {
+                  "type": "select",
+                  "options": [
+                     "on",
+                     "off",
+                     "<payload>"
+                  ]
+               }
+            }
+         },
+         "parameters": {
+            "topic": "cmnd/tasmota_F97A30/",
+            "command": "Power0",
+            "argument": "on"
+         }
+      },
+      {
+         "position": {
+            "y": 766,
+            "x": 55
+         },
+         "type": "sender",
+         "uuid": "485b97bd-c8eb-4a74-9f8a-32eb81ef23c4",
+         "runtimeContext": {
+            "parameters": {
+               "deviceKey": {
+                  "type": "select",
+                  "options": [
+                     "bell-component",
+                     "mobile-device",
+                     "mobile-device-share-url",
+                     "mail-component",
+                     "sound-detector",
+                     "90a3f763-ec74-4839-9a26-015ae27f2869",
+                     "c4c4741f-6833-4332-b41a-52fe79f9c85c"
+                  ]
+               },
+               "transformation": {
+                  "type": "select",
+                  "options": [
+                     "🍝 Nudeln (1558768708267)",
+                     "🍚 Reis (4006237090124)",
+                     " 🍵 Tee (4001257159004)",
+                     "🧀 Camenbert (4003751001759)",
+                     "🍕 Pizza (4311501450321)",
+                     "Fusili (8076802085981)",
+                     "🥣 Suppe  (4006986084108)",
+                     "Suppe-Maultasche (4006986003109)",
+                     "🥵 PreHeat (spL00Jook21)",
+                     "Maultasche (4006986010152)",
+                     "Lasagne (4311501443101)",
+                     "xxlschnitzel (4132500001983)",
+                     "nudelsuppe (4000470013711)",
+                     "🧺Wäsche (40327690441+99000942040035)",
+                     "🥛 Milchreis (4000521013745)",
+                     "🤔 wieder hunger  (spL195m9Jm8)",
+                     "🍕 Pizza (4388860610253)",
+                     "test (12120567)"
+                  ]
+               }
+            }
+         },
+         "parameters": {
+            "deviceKey": "mobile-device",
+            "transformation": "🍕 Pizza (4311501450321)"
+         }
+      },
+      {
+         "position": {
+            "y": 292,
+            "x": 392
+         },
+         "type": "mqtt publish",
+         "uuid": "8c25056e-f20f-4710-bf03-7c611cb59614",
+         "runtimeContext": {
+            "info": "pc-receiver",
+            "parameters": {
+               "command": {
+                  "type": "select",
+                  "options": [
+                     "play/pause",
+                     "volume up",
+                     "volume down",
+                     "hibernate"
+                  ]
+               }
+            }
+         },
+         "parameters": {
+            "topic": "cmnd/pc-receiver/",
+            "command": "play/pause",
+            "argument": ""
+         }
+      },
+      {
+         "position": {
+            "y": 1617.6470588235293,
+            "x": 3205.8823529411766
+         },
+         "type": "filter",
+         "uuid": "a81ba2de-5a7c-45cf-b727-ecd7a084576b",
+         "runtimeContext": {},
+         "parameters": {
+            "code": "{\"tsCode\":\"const filter:Partial<InputType> = {}\",\"jsCode\":\"const filter = {};\\n\"}"
+         }
+      },
+      {
+         "position": {
+            "y": 555,
+            "x": 89
+         },
+         "type": "key binding",
+         "uuid": "bd273288-9d11-4aaf-acee-9e4edeaa1a97",
+         "runtimeContext": {
+            "outputSchema": {
+               "jsonSchema": {
+                  "type": "object",
+                  "required": [
+                     "type",
+                     "key"
+                  ],
+                  "additionalProperties": false,
+                  "properties": {
+                     "type": {
+                        "type": "string",
+                        "const": "release"
+                     },
+                     "key": {
+                        "type": "string",
+                        "enum": [
+                           "I"
+                        ]
+                     }
+                  }
+               },
+               "dts": "export interface Main {\n    key:  Key;\n    type: Type;\n}\n\nexport type Key = \"I\";\n\nexport type Type = \"release\";"
+            },
+            "info": "bluetoothboard - I",
+            "parameters": {
+               "key": {
+                  "type": "iframe",
+                  "document": "<head>\r\n  <style>\r\n    #columns-wrapper {\r\n      display: flex;\r\n      gap: 8px;\r\n    }\r\n\r\n    .column {\r\n      display: flex;\r\n      flex-direction: column;\r\n      justify-content: space-around;\r\n      gap: 8px;\r\n    }\r\n  </style>\r\n</head>\r\n\r\n<body style=\"width:fit-content;margin: unset;\">\r\n  <form id=\"propertyform\"\r\n        style=\"width: fit-content;\">\r\n    <div id=\"columns-wrapper\">\r\n\r\n    </div>\r\n  </form>\r\n\r\n  <script>\r\n    addEventListener(\"message\", e => {\r\n      /**\r\n       * @type {{type:\"data\",data:unknown,current:string}}\r\n       */\r\n      const evt = JSON.parse(e.data)\r\n\r\n      if(evt.type === \"data\") {\r\n        /**\r\n         * @type {Array<Array<string>>}\r\n         */\r\n        const data = evt.data\r\n        const port = e.ports[0]\r\n\r\n        document.body.style.width = \"20000px\"\r\n        document.body.style.height = \"20000px\"\r\n\r\n        for(const column of data) {\r\n          const columnItem = document.createElement(\"div\")\r\n          columnItem.classList.add(\"column\")\r\n\r\n          for(const item of column) {\r\n\r\n            const itemWrapper = document.createElement(\"div\")\r\n            itemWrapper.classList.add(\"item\")\r\n            const inputItem = document.createElement(\"input\")\r\n            inputItem.type = \"radio\"\r\n            inputItem.name = \"key\"\r\n            //inputItem.hidden = true\r\n            inputItem.id = \"key_\" + item\r\n            inputItem.value = item\r\n            inputItem.classList.add(\"input\")\r\n            inputItem.checked = item === evt.current\r\n\r\n            itemWrapper.appendChild(inputItem)\r\n\r\n            const labelItem = document.createElement(\"label\")\r\n            labelItem.setAttribute(\"for\", \"key_\" + item)\r\n            labelItem.textContent = item\r\n            labelItem.classList.add(\"label\")\r\n\r\n            itemWrapper.appendChild(labelItem)\r\n\r\n            columnItem.appendChild(itemWrapper)\r\n\r\n          }\r\n\r\n          document.querySelector(\"#columns-wrapper\").appendChild(columnItem)\r\n        }\r\n        const form = document.querySelector(\"#propertyform\")\r\n        form.addEventListener(\"change\", e => {\r\n          const options = Object.fromEntries(new FormData(form).entries())\r\n          port.postMessage(JSON.stringify({\r\n            type: \"change\",\r\n            data: options.key\r\n          }))\r\n        })\r\n        const rect = form.getBoundingClientRect()\r\n        port.postMessage(JSON.stringify({\r\n          type: \"size\",\r\n          size: rect\r\n        }))\r\n      }\r\n    })\r\n  </script>\r\n\r\n</body>",
+                  "data": [
+                     [
+                        "A",
+                        "E",
+                        "I"
+                     ],
+                     [
+                        "B",
+                        "F",
+                        "J"
+                     ],
+                     [
+                        "C",
+                        "G",
+                        "K"
+                     ],
+                     [
+                        "D",
+                        "H",
+                        "L"
+                     ],
+                     [],
+                     [
+                        "1",
+                        "4"
+                     ],
+                     [
+                        "2",
+                        "5"
+                     ],
+                     [
+                        "3",
+                        "6"
+                     ]
+                  ]
+               },
+               "board": {
+                  "type": "select",
+                  "options": [
+                     "bluetoothboard",
+                     "firstboard",
+                     "footboard-ble"
+                  ],
+                  "order": 2
+               }
+            }
+         },
+         "parameters": {
+            "board": "bluetoothboard",
+            "key": "I",
+            "mode": "release"
+         }
+      },
+      {
+         "position": {
+            "y": 571,
+            "x": 376
+         },
+         "type": "action",
+         "uuid": "d1ec37e2-5dee-437f-ac52-041dfdb27618",
+         "runtimeContext": {
+            "parameters": {
+               "receiver": {
+                  "type": "select",
+                  "options": [
+                     "pc-receiver",
+                     "lamp-component",
+                     "water-supply",
+                     "alarm",
+                     "radio"
+                  ]
+               },
+               "action": {
+                  "type": "select",
+                  "options": [
+                     "pwr",
+                     "faster",
+                     "slower"
+                  ],
+                  "optionDisplayNames": [
+                     "pwr (direct)",
+                     "faster (direct)",
+                     "slower (direct)"
+                  ]
+               }
+            }
+         },
+         "parameters": {
+            "receiver": "radio",
+            "action": "pwr"
+         }
+      },
+      {
+         "position": {
+            "y": 682,
+            "x": 432
+         },
+         "type": "map",
+         "uuid": "a055539b-f4c2-430e-85af-91de5bfd5553",
+         "runtimeContext": {
+            "parameters": {
+               "code": {
+                  "type": "monaco"
+               },
+               "field": {
+                  "type": "select",
+                  "options": [
+                     "type",
+                     "key"
+                  ],
+                  "order": 2
+               }
+            },
+            "editorSchema": {
+               "dts": "\n\n        namespace ValueTypes{\n          export type Main = \"press\";\n        }\n      \n\n\n        export type SwitchMapped=Record<ValueTypes.Main,any>\n        "
+            },
+            "outputSchema": {
+               "jsonSchema": {
+                  "type": "object",
+                  "definitions": {},
+                  "additionalProperties": false,
+                  "required": []
+               },
+               "mainTypeName": "Main",
+               "dts": "export interface Main {\n}"
+            }
+         },
+         "parameters": {
+            "mode": "switch",
+            "code": "{\"tsCode\":\"\\n({ \\n\\n }) satisfies EditorSchema.SwitchMapped\",\"timestamp\":1708453941377,\"jsCode\":\"({});\\n\",\"node\":\"a055539b-f4c2-430e-85af-91de5bfd5553\"}",
+            "field": "type"
+         }
+      },
+      {
+         "position": {
+            "y": 672,
+            "x": 119
+         },
+         "type": "key binding",
+         "uuid": "a8050046-482f-4d01-8c42-73fd87530293",
+         "runtimeContext": {
+            "parameters": {
+               "board": {
+                  "type": "select",
+                  "options": [
+                     "bluetoothboard",
+                     "firstboard",
+                     "footboard-ble"
+                  ],
+                  "order": 2
+               },
+               "key": {
+                  "type": "iframe",
+                  "document": "<head>\r\n  <style>\r\n    #columns-wrapper {\r\n      display: flex;\r\n      gap: 8px;\r\n    }\r\n\r\n    .column {\r\n      display: flex;\r\n      flex-direction: column;\r\n      justify-content: space-around;\r\n      gap: 8px;\r\n    }\r\n\r\n    .item input {\r\n      height: 16px;\r\n      width: 16px;\r\n    }\r\n\r\n    .label {\r\n      display: inline-block;\r\n      transform: translateY(-2px);\r\n    }\r\n\r\n    .item input:checked+label.label {\r\n      font-weight: bold;\r\n    }\r\n  </style>\r\n</head>\r\n\r\n<body style=\"width:fit-content;margin: unset;\">\r\n  <form id=\"propertyform\"\r\n        style=\"width: fit-content;\">\r\n    <div id=\"columns-wrapper\">\r\n\r\n    </div>\r\n  </form>\r\n\r\n  <script>\r\n    addEventListener(\"message\", e => {\r\n      /**\r\n       * @type {{type:\"data\",data:unknown,current:string}}\r\n       */\r\n      const evt = JSON.parse(e.data)\r\n\r\n      if(evt.type === \"data\") {\r\n        /**\r\n         * @type {Array<Array<string>>}\r\n         */\r\n        const data = evt.data\r\n        const port = e.ports[0]\r\n\r\n        document.body.style.width = \"20000px\"\r\n        document.body.style.height = \"20000px\"\r\n\r\n        for(const column of data) {\r\n          const columnItem = document.createElement(\"div\")\r\n          columnItem.classList.add(\"column\")\r\n\r\n          for(const item of column) {\r\n\r\n            const itemWrapper = document.createElement(\"div\")\r\n            itemWrapper.classList.add(\"item\")\r\n            const inputItem = document.createElement(\"input\")\r\n            inputItem.type = \"radio\"\r\n            inputItem.name = \"key\"\r\n            //inputItem.hidden = true\r\n            inputItem.id = \"key_\" + item\r\n            inputItem.value = item\r\n            inputItem.classList.add(\"input\")\r\n            inputItem.checked = item === evt.current\r\n\r\n            itemWrapper.appendChild(inputItem)\r\n\r\n            const labelItem = document.createElement(\"label\")\r\n            labelItem.setAttribute(\"for\", \"key_\" + item)\r\n            labelItem.textContent = item\r\n            labelItem.classList.add(\"label\")\r\n\r\n            itemWrapper.appendChild(labelItem)\r\n\r\n            columnItem.appendChild(itemWrapper)\r\n\r\n          }\r\n\r\n          document.querySelector(\"#columns-wrapper\").appendChild(columnItem)\r\n        }\r\n        const form = document.querySelector(\"#propertyform\")\r\n        form.addEventListener(\"change\", e => {\r\n          const options = Object.fromEntries(new FormData(form).entries())\r\n          port.postMessage(JSON.stringify({\r\n            type: \"change\",\r\n            data: options.key\r\n          }))\r\n        })\r\n        const rect = form.getBoundingClientRect()\r\n        port.postMessage(JSON.stringify({\r\n          type: \"size\",\r\n          size: rect\r\n        }))\r\n      }\r\n    })\r\n  </script>\r\n\r\n</body>",
+                  "data": [
+                     [
+                        "A",
+                        "E",
+                        "I"
+                     ],
+                     [
+                        "B",
+                        "F",
+                        "J"
+                     ],
+                     [
+                        "C",
+                        "G",
+                        "K"
+                     ],
+                     [
+                        "D",
+                        "H",
+                        "L"
+                     ],
+                     [],
+                     [
+                        "1",
+                        "4"
+                     ],
+                     [
+                        "2",
+                        "5"
+                     ],
+                     [
+                        "3",
+                        "6"
+                     ]
+                  ]
+               }
+            },
+            "outputSchema": {
+               "jsonSchema": {
+                  "type": "object",
+                  "additionalProperties": false,
+                  "required": [
+                     "type",
+                     "key"
+                  ],
+                  "properties": {
+                     "type": {
+                        "type": "string",
+                        "const": "press"
+                     },
+                     "key": {
+                        "type": "string",
+                        "enum": [
+                           "L"
+                        ]
+                     }
+                  }
+               },
+               "mainTypeName": "Main",
+               "dts": "export interface Main {\n    key:  Key;\n    type: Type;\n}\n\nexport type Key = \"L\";\n\nexport type Type = \"press\";"
+            },
+            "info": "bluetoothboard - L"
+         },
+         "parameters": {
+            "board": "bluetoothboard",
+            "mode": "press",
+            "key": "L"
+         }
+      },
+      {
+         "position": {
+            "y": 315,
+            "x": 904
+         },
+         "type": "jsonschema",
+         "uuid": "1377c74e-cb20-4c7c-9ded-77aaa864a436",
+         "runtimeContext": {
+            "parameters": {},
+            "outputSchema": {
+               "jsonSchema": {
+                  "type": "object",
+                  "properties": {
+                     "type": {
+                        "type": "string",
+                        "enum": [
+                           "press"
+                        ]
+                     },
+                     "key": {
+                        "type": "string",
+                        "enum": [
+                           "C"
+                        ]
+                     }
+                  },
+                  "additionalProperties": false,
+                  "required": [
+                     "type",
+                     "key"
+                  ]
+               },
+               "mainTypeName": "Main",
+               "dts": "export interface Main {\n    key:  Key;\n    type: Type;\n}\n\nexport type Key = \"C\";\n\nexport type Type = \"press\";"
+            }
+         },
+         "parameters": {
+            "mergeLength": "10"
+         }
+      },
+      {
+         "position": {
+            "y": 712,
+            "x": 718
+         },
+         "type": "view",
+         "uuid": "bc3ffeb5-2263-40f2-917f-c4bfe7fd8f0c",
+         "runtimeContext": {
+            "info": "tas"
+         },
+         "parameters": {
+            "name": "tas"
+         }
+      },
+      {
+         "position": {
+            "y": 246,
+            "x": 1221
+         },
+         "type": "action",
+         "uuid": "0d6452fa-8d98-480c-9ed2-3f93913b9714",
+         "runtimeContext": {
+            "parameters": {
+               "receiver": {
+                  "type": "select",
+                  "options": [
+                     "pc-receiver",
+                     "lamp-component",
+                     "water-supply",
+                     "alarm",
+                     "radio"
+                  ]
+               },
+               "action": {
+                  "type": "select",
+                  "options": [
+                     "play/pause",
+                     "volume up",
+                     "volume down",
+                     "hibernate"
+                  ],
+                  "optionDisplayNames": [
+                     "play/pause (direct)",
+                     "volume up (direct)",
+                     "volume down (direct)",
+                     "hibernate (confirmed)"
+                  ]
+               }
+            },
+            "info": "pc-receiver - play/pause"
+         },
+         "view": "bc3ffeb5-2263-40f2-917f-c4bfe7fd8f0c",
+         "parameters": {
+            "receiver": "pc-receiver",
+            "action": "play/pause"
+         }
+      },
+      {
+         "position": {
+            "y": 54,
+            "x": 93
+         },
+         "type": "sender",
+         "uuid": "4fa2e476-f410-42ff-8b42-b2fc277d3060",
+         "runtimeContext": {
+            "parameters": {
+               "deviceKey": {
+                  "type": "select",
+                  "options": [
+                     "bell-component",
+                     "mobile-device",
+                     "mobile-device-share-url",
+                     "mail-component",
+                     "sound-detector",
+                     "90a3f763-ec74-4839-9a26-015ae27f2869",
+                     "c4c4741f-6833-4332-b41a-52fe79f9c85c"
+                  ]
+               },
+               "transformation": {
+                  "type": "select",
+                  "options": [
+                     "🥵 PreHeat (spL00Jook21)",
+                     "🍕 Pizza (4311501450321)",
+                     " 🍵 Tee (4001257159004)",
+                     "🧀 Camenbert (4003751001759)",
+                     "🍝 Nudeln (1558768708267)",
+                     "nudelsuppe (4000470013711)",
+                     "🧺Wäsche (40327690441+99000942040035)",
+                     "🥣 Suppe  (4006986084108)",
+                     "🥛 Milchreis (4000521013745)",
+                     "🍚 Reis (4006237090124)",
+                     "test (12120567)",
+                     "Fusili (8076802085981)",
+                     "Suppe-Maultasche (4006986003109)",
+                     "Lasagne (4311501443101)",
+                     "🍕 Pizza (4388860610253)",
+                     "xxlschnitzel (4132500001983)",
+                     "🤔 wieder hunger  (spL195m9Jm8)",
+                     "Maultasche (4006986010152)"
+                  ]
+               }
+            }
+         },
+         "view": "bc3ffeb5-2263-40f2-917f-c4bfe7fd8f0c",
+         "parameters": {
+            "deviceKey": "mobile-device",
+            "transformation": "🥵 PreHeat (spL00Jook21)"
+         }
+      },
+      {
+         "position": {
+            "y": 38,
+            "x": 394
+         },
+         "type": "jsonschema",
+         "uuid": "0293eac9-d029-4ee2-936d-46529fef9047",
+         "runtimeContext": {},
+         "view": "bc3ffeb5-2263-40f2-917f-c4bfe7fd8f0c",
+         "parameters": {
+            "mergeLength": "10"
+         }
+      },
+      {
+         "position": {
+            "y": 107,
+            "x": 83
+         },
+         "type": "sender",
+         "uuid": "190a55f5-09d9-4002-9e14-25e008380907",
+         "runtimeContext": {
+            "parameters": {
+               "deviceKey": {
+                  "type": "select",
+                  "options": [
+                     "bell-component",
+                     "mobile-device",
+                     "mobile-device-share-url",
+                     "mail-component",
+                     "sound-detector",
+                     "90a3f763-ec74-4839-9a26-015ae27f2869",
+                     "c4c4741f-6833-4332-b41a-52fe79f9c85c"
+                  ]
+               },
+               "transformation": {
+                  "type": "select",
+                  "options": [
+                     "🥵 PreHeat (spL00Jook21)",
+                     "🍕 Pizza (4311501450321)",
+                     " 🍵 Tee (4001257159004)",
+                     "🧀 Camenbert (4003751001759)",
+                     "🍝 Nudeln (1558768708267)",
+                     "nudelsuppe (4000470013711)",
+                     "🧺Wäsche (40327690441+99000942040035)",
+                     "🥣 Suppe  (4006986084108)",
+                     "🥛 Milchreis (4000521013745)",
+                     "🍚 Reis (4006237090124)",
+                     "test (12120567)",
+                     "Fusili (8076802085981)",
+                     "Suppe-Maultasche (4006986003109)",
+                     "Lasagne (4311501443101)",
+                     "🍕 Pizza (4388860610253)",
+                     "xxlschnitzel (4132500001983)",
+                     "🤔 wieder hunger  (spL195m9Jm8)",
+                     "Maultasche (4006986010152)"
+                  ]
+               }
+            }
+         },
+         "view": "bc3ffeb5-2263-40f2-917f-c4bfe7fd8f0c",
+         "parameters": {
+            "deviceKey": "mobile-device",
+            "transformation": "🍕 Pizza (4311501450321)"
+         }
+      },
+      {
+         "position": {
+            "y": 100,
+            "x": 384
+         },
+         "type": "jsonschema",
+         "uuid": "04ed832e-1fff-423a-b471-d47ce3ae3a2d",
+         "runtimeContext": {},
+         "view": "bc3ffeb5-2263-40f2-917f-c4bfe7fd8f0c",
+         "parameters": {
+            "mergeLength": "10"
+         }
+      },
+      {
+         "position": {
+            "y": 38,
+            "x": 673
+         },
+         "type": "map",
+         "uuid": "64f23a8d-593d-43d5-8a8e-aca12336c428",
+         "runtimeContext": {
+            "parameters": {
+               "code": {
+                  "type": "monaco"
+               }
+            },
+            "editorSchema": {
+               "dts": "\n            type Main=any\n\n            type InputType=Main\n\n            \r\n\r\nexport interface TransformationRes extends SenderResponse {\r\n  status?: number;\r\n  error?: number;\r\n\r\n\r\n  response?: {\r\n    [key: string]: unknown\r\n  }\r\n\r\n}\r\n\r\n\r\nexport interface ConnectionResponse extends TransformationRes {\r\n\r\n  withRequest?: boolean\r\n}\r\n\r\n\r\nexport interface Delayed<T> {\r\n\r\n  nestedObject: T,\r\n  sentData: InputType\r\n  time: number\r\n}\r\n\r\n\r\n//globals start\r\ndeclare global {\r\n  type TransformationResponse = TransformationRes;\r\n  function delay<T extends SenderResponse>(time: number, res: T): Delayed<T>\r\n  let data: DataObj\r\n}\r\n\r\n\r\n//globals end\r\ninterface DataObj {\r\n  usedTransformation: {\r\n    name: string\r\n  }\r\n}\r\n\r\n\r\ninterface NotificationData<SoundDef = SoundType> {\r\n  title?: string;\r\n  sound?: SoundDef;\r\n  body?: string;\r\n}\r\n\r\nexport interface SenderResponse<SoundDef = SoundType, NotificationType = NotificationData<SoundDef>> {\r\n  promise?: Delayed<SenderResponse>;\r\n  notification?: NotificationType,\r\n\r\n  attributes?: {\r\n    messageId?: string\r\n  }\r\n\r\n  read?: {\r\n    text: string\r\n  }\r\n\r\n}\r\n\r\nexport type SoundType = soundListRuntime | '*' | Array<soundListRuntime>\r\n\r\ntype soundListRuntime = string\n      ",
+               "globals": "\n            type TransformationResponse = EditorSchema.TransformationRes;\n            function delay<T extends EditorSchema.SenderResponse>(time: number, res: T): EditorSchema.Delayed<T>\n      "
+            }
+         },
+         "view": "bc3ffeb5-2263-40f2-917f-c4bfe7fd8f0c",
+         "parameters": {
+            "mode": "object",
+            "code": "{\"tsCode\":\"let time = 60 * 15;\\r\\nif (new Date().getMonth() > 8 || new Date().getMonth() < 3) {\\r\\n    time = time * 1.2;\\r\\n}\\r\\n({\\r\\n    response: {\\r\\n        time\\r\\n    },\\r\\n    promise: delay(time, {\\r\\n        notification: {\\r\\n            title: \\\"PreHeated\\\",\\r\\n            sound: \\\"*\\\"\\r\\n        }\\r\\n    })\\r\\n}) as TransformationResponse;\\r\\n\",\"timestamp\":1708548103846,\"jsCode\":\"let time = 60 * 15;\\nif (new Date().getMonth() > 8 || new Date().getMonth() < 3) {\\n    time = time * 1.2;\\n}\\n({\\n    response: {\\n        time\\n    },\\n    promise: delay(time, {\\n        notification: {\\n            title: \\\"PreHeated\\\",\\n            sound: \\\"*\\\"\\n        }\\n    })\\n});\\n\",\"node\":\"64f23a8d-593d-43d5-8a8e-aca12336c428\"}"
+         }
+      },
+      {
+         "position": {
+            "y": 96,
+            "x": 673
+         },
+         "type": "map",
+         "uuid": "f704dcb6-c98a-4d51-bd47-8ffe1f5f6fe5",
+         "runtimeContext": {
+            "parameters": {
+               "code": {
+                  "type": "monaco"
+               }
+            },
+            "editorSchema": {
+               "dts": "\n            type Main=any\n\n            type InputType=Main\n\n            \r\n\r\nexport interface TransformationRes extends SenderResponse {\r\n  status?: number;\r\n  error?: number;\r\n\r\n\r\n  response?: {\r\n    [key: string]: unknown\r\n  }\r\n\r\n}\r\n\r\n\r\nexport interface ConnectionResponse extends TransformationRes {\r\n\r\n  withRequest?: boolean\r\n}\r\n\r\n\r\nexport interface Delayed<T> {\r\n\r\n  nestedObject: T,\r\n  sentData: InputType\r\n  time: number\r\n}\r\n\r\n\r\n//globals start\r\ndeclare global {\r\n  type TransformationResponse = TransformationRes;\r\n  function delay<T extends SenderResponse>(time: number, res: T): Delayed<T>\r\n  let data: DataObj\r\n}\r\n\r\n\r\n//globals end\r\ninterface DataObj {\r\n  usedTransformation: {\r\n    name: string\r\n  }\r\n}\r\n\r\n\r\ninterface NotificationData<SoundDef = SoundType> {\r\n  title?: string;\r\n  sound?: SoundDef;\r\n  body?: string;\r\n}\r\n\r\nexport interface SenderResponse<SoundDef = SoundType, NotificationType = NotificationData<SoundDef>> {\r\n  promise?: Delayed<SenderResponse>;\r\n  notification?: NotificationType,\r\n\r\n  attributes?: {\r\n    messageId?: string\r\n  }\r\n\r\n  read?: {\r\n    text: string\r\n  }\r\n\r\n}\r\n\r\nexport type SoundType = soundListRuntime | '*' | Array<soundListRuntime>\r\n\r\ntype soundListRuntime = string\n      ",
+               "globals": "\n            type TransformationResponse = EditorSchema.TransformationRes;\n            function delay<T extends EditorSchema.SenderResponse>(time: number, res: T): EditorSchema.Delayed<T>\n      "
+            }
+         },
+         "view": "bc3ffeb5-2263-40f2-917f-c4bfe7fd8f0c",
+         "parameters": {
+            "mode": "object",
+            "code": "{\"tsCode\":\"const time=60*12;\\r\\n({\\r\\n  response:{\\r\\n    time\\r\\n  },\\r\\n  promise:delay(time,{\\r\\n    notification:{\\r\\n      body:\\\"Pizza !!!!\\\",\\r\\n      sound:\\\"*\\\"\\r\\n    }\\r\\n  })  \\r\\n}) as TransformationResponse \",\"timestamp\":1708547921476,\"jsCode\":\"const time = 60 * 12;\\n({\\n    response: {\\n        time\\n    },\\n    promise: delay(time, {\\n        notification: {\\n            body: \\\"Pizza !!!!\\\",\\n            sound: \\\"*\\\"\\n        }\\n    })\\n});\\n\",\"node\":\"f704dcb6-c98a-4d51-bd47-8ffe1f5f6fe5\"}"
+         }
+      },
+      {
+         "position": {
+            "y": 158,
+            "x": 374
+         },
+         "type": "jsonschema",
+         "uuid": "77313db6-db6d-468a-bf23-6aec4061541e",
+         "runtimeContext": {},
+         "view": "bc3ffeb5-2263-40f2-917f-c4bfe7fd8f0c",
+         "parameters": {
+            "mergeLength": "10"
+         }
+      },
+      {
+         "position": {
+            "y": 228,
+            "x": 379
+         },
+         "type": "jsonschema",
+         "uuid": "12238d09-f044-40a8-b0bd-082f0464b8e0",
+         "runtimeContext": {},
+         "view": "bc3ffeb5-2263-40f2-917f-c4bfe7fd8f0c",
+         "parameters": {
+            "mergeLength": "10"
+         }
+      },
+      {
+         "position": {
+            "y": 290,
+            "x": 366
+         },
+         "type": "jsonschema",
+         "uuid": "a2fb34e5-180a-474d-96e3-59930fe3fa6e",
+         "runtimeContext": {},
+         "view": "bc3ffeb5-2263-40f2-917f-c4bfe7fd8f0c",
+         "parameters": {
+            "mergeLength": "10"
+         }
+      },
+      {
+         "position": {
+            "y": 353,
+            "x": 381
+         },
+         "type": "jsonschema",
+         "uuid": "a766422a-6f2f-4a8d-a126-7c4bc9d023fe",
+         "runtimeContext": {},
+         "view": "bc3ffeb5-2263-40f2-917f-c4bfe7fd8f0c",
+         "parameters": {
+            "mergeLength": "10"
+         }
+      },
+      {
+         "position": {
+            "y": 413,
+            "x": 374
+         },
+         "type": "jsonschema",
+         "uuid": "92e71926-b39f-43bc-b386-99a9cc693fff",
+         "runtimeContext": {},
+         "view": "bc3ffeb5-2263-40f2-917f-c4bfe7fd8f0c",
+         "parameters": {
+            "mergeLength": "10"
+         }
+      },
+      {
+         "position": {
+            "y": 168,
+            "x": 81
+         },
+         "type": "sender",
+         "uuid": "41a5f92f-d801-44e1-80c6-43f3d3d86127",
+         "runtimeContext": {
+            "parameters": {
+               "deviceKey": {
+                  "type": "select",
+                  "options": [
+                     "bell-component",
+                     "mobile-device",
+                     "mobile-device-share-url",
+                     "mail-component",
+                     "sound-detector",
+                     "90a3f763-ec74-4839-9a26-015ae27f2869",
+                     "c4c4741f-6833-4332-b41a-52fe79f9c85c"
+                  ]
+               },
+               "transformation": {
+                  "type": "select",
+                  "options": [
+                     "🥵 PreHeat (spL00Jook21)",
+                     "🍕 Pizza (4311501450321)",
+                     " 🍵 Tee (4001257159004)",
+                     "🧀 Camenbert (4003751001759)",
+                     "🍝 Nudeln (1558768708267)",
+                     "nudelsuppe (4000470013711)",
+                     "🧺Wäsche (40327690441+99000942040035)",
+                     "🥣 Suppe  (4006986084108)",
+                     "🥛 Milchreis (4000521013745)",
+                     "🍚 Reis (4006237090124)",
+                     "test (12120567)",
+                     "Fusili (8076802085981)",
+                     "Suppe-Maultasche (4006986003109)",
+                     "Lasagne (4311501443101)",
+                     "🍕 Pizza (4388860610253)",
+                     "xxlschnitzel (4132500001983)",
+                     "🤔 wieder hunger  (spL195m9Jm8)",
+                     "Maultasche (4006986010152)"
+                  ]
+               }
+            }
+         },
+         "view": "bc3ffeb5-2263-40f2-917f-c4bfe7fd8f0c",
+         "parameters": {
+            "deviceKey": "mobile-device",
+            "transformation": "nudelsuppe (4000470013711)"
+         }
+      },
+      {
+         "position": {
+            "y": 231,
+            "x": 85
+         },
+         "type": "sender",
+         "uuid": "b18afac9-cfef-40d4-b98e-eadf2faddef0",
+         "runtimeContext": {
+            "parameters": {
+               "deviceKey": {
+                  "type": "select",
+                  "options": [
+                     "bell-component",
+                     "mobile-device",
+                     "mobile-device-share-url",
+                     "mail-component",
+                     "sound-detector",
+                     "90a3f763-ec74-4839-9a26-015ae27f2869",
+                     "c4c4741f-6833-4332-b41a-52fe79f9c85c"
+                  ]
+               },
+               "transformation": {
+                  "type": "select",
+                  "options": [
+                     "🥵 PreHeat (spL00Jook21)",
+                     "🍕 Pizza (4311501450321)",
+                     " 🍵 Tee (4001257159004)",
+                     "🧀 Camenbert (4003751001759)",
+                     "🍝 Nudeln (1558768708267)",
+                     "nudelsuppe (4000470013711)",
+                     "🧺Wäsche (40327690441+99000942040035)",
+                     "🥣 Suppe  (4006986084108)",
+                     "🥛 Milchreis (4000521013745)",
+                     "🍚 Reis (4006237090124)",
+                     "test (12120567)",
+                     "Fusili (8076802085981)",
+                     "Suppe-Maultasche (4006986003109)",
+                     "Lasagne (4311501443101)",
+                     "🍕 Pizza (4388860610253)",
+                     "xxlschnitzel (4132500001983)",
+                     "🤔 wieder hunger  (spL195m9Jm8)",
+                     "Maultasche (4006986010152)"
+                  ]
+               }
+            }
+         },
+         "view": "bc3ffeb5-2263-40f2-917f-c4bfe7fd8f0c",
+         "parameters": {
+            "deviceKey": "mobile-device",
+            "transformation": "🧀 Camenbert (4003751001759)"
+         }
+      },
+      {
+         "position": {
+            "y": 294,
+            "x": 70
+         },
+         "type": "sender",
+         "uuid": "b19ae3dd-ec10-47df-9b4d-2b00f4d47bd0",
+         "runtimeContext": {
+            "parameters": {
+               "deviceKey": {
+                  "type": "select",
+                  "options": [
+                     "bell-component",
+                     "mobile-device",
+                     "mobile-device-share-url",
+                     "mail-component",
+                     "sound-detector",
+                     "90a3f763-ec74-4839-9a26-015ae27f2869",
+                     "c4c4741f-6833-4332-b41a-52fe79f9c85c"
+                  ]
+               },
+               "transformation": {
+                  "type": "select",
+                  "options": [
+                     "🥵 PreHeat (spL00Jook21)",
+                     "🍕 Pizza (4311501450321)",
+                     " 🍵 Tee (4001257159004)",
+                     "🧀 Camenbert (4003751001759)",
+                     "🍝 Nudeln (1558768708267)",
+                     "nudelsuppe (4000470013711)",
+                     "🧺Wäsche (40327690441+99000942040035)",
+                     "🥣 Suppe  (4006986084108)",
+                     "🥛 Milchreis (4000521013745)",
+                     "🍚 Reis (4006237090124)",
+                     "test (12120567)",
+                     "Fusili (8076802085981)",
+                     "Suppe-Maultasche (4006986003109)",
+                     "Lasagne (4311501443101)",
+                     "🍕 Pizza (4388860610253)",
+                     "xxlschnitzel (4132500001983)",
+                     "🤔 wieder hunger  (spL195m9Jm8)",
+                     "Maultasche (4006986010152)"
+                  ]
+               }
+            }
+         },
+         "view": "bc3ffeb5-2263-40f2-917f-c4bfe7fd8f0c",
+         "parameters": {
+            "deviceKey": "mobile-device",
+            "transformation": "🍝 Nudeln (1558768708267)"
+         }
+      },
+      {
+         "position": {
+            "y": 355,
+            "x": 70
+         },
+         "type": "sender",
+         "uuid": "f6649dcd-e2b9-441d-a2fb-92529384a136",
+         "runtimeContext": {
+            "parameters": {
+               "deviceKey": {
+                  "type": "select",
+                  "options": [
+                     "bell-component",
+                     "mobile-device",
+                     "mobile-device-share-url",
+                     "mail-component",
+                     "sound-detector",
+                     "90a3f763-ec74-4839-9a26-015ae27f2869",
+                     "c4c4741f-6833-4332-b41a-52fe79f9c85c"
+                  ]
+               },
+               "transformation": {
+                  "type": "select",
+                  "options": [
+                     "🥵 PreHeat (spL00Jook21)",
+                     "🍕 Pizza (4311501450321)",
+                     " 🍵 Tee (4001257159004)",
+                     "🧀 Camenbert (4003751001759)",
+                     "🍝 Nudeln (1558768708267)",
+                     "nudelsuppe (4000470013711)",
+                     "🧺Wäsche (40327690441+99000942040035)",
+                     "🥣 Suppe  (4006986084108)",
+                     "🥛 Milchreis (4000521013745)",
+                     "🍚 Reis (4006237090124)",
+                     "test (12120567)",
+                     "Fusili (8076802085981)",
+                     "Suppe-Maultasche (4006986003109)",
+                     "Lasagne (4311501443101)",
+                     "🍕 Pizza (4388860610253)",
+                     "xxlschnitzel (4132500001983)",
+                     "🤔 wieder hunger  (spL195m9Jm8)",
+                     "Maultasche (4006986010152)"
+                  ]
+               }
+            }
+         },
+         "view": "bc3ffeb5-2263-40f2-917f-c4bfe7fd8f0c",
+         "parameters": {
+            "deviceKey": "mobile-device",
+            "transformation": "🧺Wäsche (40327690441+99000942040035)"
+         }
+      },
+      {
+         "position": {
+            "y": 415,
+            "x": 71
+         },
+         "type": "sender",
+         "uuid": "6af3c400-dfca-479a-aa74-60bb5c1e5bc1",
+         "runtimeContext": {
+            "parameters": {
+               "deviceKey": {
+                  "type": "select",
+                  "options": [
+                     "bell-component",
+                     "mobile-device",
+                     "mobile-device-share-url",
+                     "mail-component",
+                     "sound-detector",
+                     "90a3f763-ec74-4839-9a26-015ae27f2869",
+                     "c4c4741f-6833-4332-b41a-52fe79f9c85c"
+                  ]
+               },
+               "transformation": {
+                  "type": "select",
+                  "options": [
+                     "🥵 PreHeat (spL00Jook21)",
+                     "🍕 Pizza (4311501450321)",
+                     " 🍵 Tee (4001257159004)",
+                     "🧀 Camenbert (4003751001759)",
+                     "🍝 Nudeln (1558768708267)",
+                     "nudelsuppe (4000470013711)",
+                     "🧺Wäsche (40327690441+99000942040035)",
+                     "🥣 Suppe  (4006986084108)",
+                     "🥛 Milchreis (4000521013745)",
+                     "🍚 Reis (4006237090124)",
+                     "test (12120567)",
+                     "Fusili (8076802085981)",
+                     "Suppe-Maultasche (4006986003109)",
+                     "Lasagne (4311501443101)",
+                     "🍕 Pizza (4388860610253)",
+                     "xxlschnitzel (4132500001983)",
+                     "🤔 wieder hunger  (spL195m9Jm8)",
+                     "Maultasche (4006986010152)"
+                  ]
+               }
+            }
+         },
+         "view": "bc3ffeb5-2263-40f2-917f-c4bfe7fd8f0c",
+         "parameters": {
+            "deviceKey": "mobile-device",
+            "transformation": "🥛 Milchreis (4000521013745)"
+         }
+      },
+      {
+         "position": {
+            "y": 476,
+            "x": 72
+         },
+         "type": "sender",
+         "uuid": "e4f779ca-08eb-4da7-a757-47e16494f40b",
+         "runtimeContext": {
+            "parameters": {
+               "deviceKey": {
+                  "type": "select",
+                  "options": [
+                     "bell-component",
+                     "mobile-device",
+                     "mobile-device-share-url",
+                     "mail-component",
+                     "sound-detector",
+                     "90a3f763-ec74-4839-9a26-015ae27f2869",
+                     "c4c4741f-6833-4332-b41a-52fe79f9c85c"
+                  ]
+               },
+               "transformation": {
+                  "type": "select",
+                  "options": [
+                     "🥵 PreHeat (spL00Jook21)",
+                     "🍕 Pizza (4311501450321)",
+                     " 🍵 Tee (4001257159004)",
+                     "🧀 Camenbert (4003751001759)",
+                     "🍝 Nudeln (1558768708267)",
+                     "nudelsuppe (4000470013711)",
+                     "🧺Wäsche (40327690441+99000942040035)",
+                     "🥣 Suppe  (4006986084108)",
+                     "🥛 Milchreis (4000521013745)",
+                     "🍚 Reis (4006237090124)",
+                     "test (12120567)",
+                     "Fusili (8076802085981)",
+                     "Suppe-Maultasche (4006986003109)",
+                     "Lasagne (4311501443101)",
+                     "🍕 Pizza (4388860610253)",
+                     "xxlschnitzel (4132500001983)",
+                     "🤔 wieder hunger  (spL195m9Jm8)",
+                     "Maultasche (4006986010152)"
+                  ]
+               }
+            }
+         },
+         "view": "bc3ffeb5-2263-40f2-917f-c4bfe7fd8f0c",
+         "parameters": {
+            "deviceKey": "mobile-device",
+            "transformation": "🍚 Reis (4006237090124)"
+         }
+      },
+      {
+         "position": {
+            "y": 530,
+            "x": 71
+         },
+         "type": "sender",
+         "uuid": "5190cfb5-7927-491f-a222-402644f52f55",
+         "runtimeContext": {
+            "parameters": {
+               "deviceKey": {
+                  "type": "select",
+                  "options": [
+                     "bell-component",
+                     "mobile-device",
+                     "mobile-device-share-url",
+                     "mail-component",
+                     "sound-detector",
+                     "90a3f763-ec74-4839-9a26-015ae27f2869",
+                     "c4c4741f-6833-4332-b41a-52fe79f9c85c"
+                  ]
+               },
+               "transformation": {
+                  "type": "select",
+                  "options": [
+                     "🥵 PreHeat (spL00Jook21)",
+                     "🍕 Pizza (4311501450321)",
+                     " 🍵 Tee (4001257159004)",
+                     "🧀 Camenbert (4003751001759)",
+                     "🍝 Nudeln (1558768708267)",
+                     "nudelsuppe (4000470013711)",
+                     "🧺Wäsche (40327690441+99000942040035)",
+                     "🥣 Suppe  (4006986084108)",
+                     "🥛 Milchreis (4000521013745)",
+                     "🍚 Reis (4006237090124)",
+                     "test (12120567)",
+                     "Fusili (8076802085981)",
+                     "Suppe-Maultasche (4006986003109)",
+                     "Lasagne (4311501443101)",
+                     "🍕 Pizza (4388860610253)",
+                     "xxlschnitzel (4132500001983)",
+                     "🤔 wieder hunger  (spL195m9Jm8)",
+                     "Maultasche (4006986010152)"
+                  ]
+               }
+            }
+         },
+         "view": "bc3ffeb5-2263-40f2-917f-c4bfe7fd8f0c",
+         "parameters": {
+            "deviceKey": "mobile-device",
+            "transformation": " 🍵 Tee (4001257159004)"
+         }
+      },
+      {
+         "position": {
+            "y": 586,
+            "x": 70
+         },
+         "type": "sender",
+         "uuid": "26b766e2-6d27-4bf7-8bfd-426e519ded8e",
+         "runtimeContext": {
+            "parameters": {
+               "deviceKey": {
+                  "type": "select",
+                  "options": [
+                     "bell-component",
+                     "mobile-device",
+                     "mobile-device-share-url",
+                     "mail-component",
+                     "sound-detector",
+                     "90a3f763-ec74-4839-9a26-015ae27f2869",
+                     "c4c4741f-6833-4332-b41a-52fe79f9c85c"
+                  ]
+               },
+               "transformation": {
+                  "type": "select",
+                  "options": [
+                     "🥵 PreHeat (spL00Jook21)",
+                     "🍕 Pizza (4311501450321)",
+                     " 🍵 Tee (4001257159004)",
+                     "🧀 Camenbert (4003751001759)",
+                     "🍝 Nudeln (1558768708267)",
+                     "nudelsuppe (4000470013711)",
+                     "🧺Wäsche (40327690441+99000942040035)",
+                     "🥣 Suppe  (4006986084108)",
+                     "🥛 Milchreis (4000521013745)",
+                     "🍚 Reis (4006237090124)",
+                     "test (12120567)",
+                     "Fusili (8076802085981)",
+                     "Suppe-Maultasche (4006986003109)",
+                     "Lasagne (4311501443101)",
+                     "🍕 Pizza (4388860610253)",
+                     "xxlschnitzel (4132500001983)",
+                     "🤔 wieder hunger  (spL195m9Jm8)",
+                     "Maultasche (4006986010152)"
+                  ]
+               }
+            }
+         },
+         "view": "bc3ffeb5-2263-40f2-917f-c4bfe7fd8f0c",
+         "parameters": {
+            "deviceKey": "mobile-device",
+            "transformation": "🥣 Suppe  (4006986084108)"
+         }
+      },
+      {
+         "position": {
+            "y": 471,
+            "x": 372
+         },
+         "type": "jsonschema",
+         "uuid": "7bb63464-5c65-490e-a8fa-ac6e556fa75a",
+         "runtimeContext": {},
+         "view": "bc3ffeb5-2263-40f2-917f-c4bfe7fd8f0c",
+         "parameters": {
+            "mergeLength": "10"
+         }
+      },
+      {
+         "position": {
+            "y": 531,
+            "x": 371
+         },
+         "type": "jsonschema",
+         "uuid": "7970e18c-1751-4cef-9f98-31b94aef17bc",
+         "runtimeContext": {},
+         "view": "bc3ffeb5-2263-40f2-917f-c4bfe7fd8f0c",
+         "parameters": {
+            "mergeLength": "10"
+         }
+      },
+      {
+         "position": {
+            "y": 586,
+            "x": 369
+         },
+         "type": "jsonschema",
+         "uuid": "63785199-8ffb-4cbf-b182-ced2f3b1dbfb",
+         "runtimeContext": {},
+         "view": "bc3ffeb5-2263-40f2-917f-c4bfe7fd8f0c",
+         "parameters": {
+            "mergeLength": "10"
+         }
+      },
+      {
+         "position": {
+            "y": 157,
+            "x": 673
+         },
+         "type": "map",
+         "uuid": "8c66d9b7-7b04-4265-9810-47c3824c67ee",
+         "runtimeContext": {
+            "parameters": {
+               "code": {
+                  "type": "monaco"
+               }
+            },
+            "editorSchema": {
+               "dts": "\n            type Main=any\n\n            type InputType=Main\n\n            \r\n\r\nexport interface TransformationRes extends SenderResponse {\r\n  status?: number;\r\n  error?: number;\r\n\r\n\r\n  response?: {\r\n    [key: string]: unknown\r\n  }\r\n\r\n}\r\n\r\n\r\nexport interface ConnectionResponse extends TransformationRes {\r\n\r\n  withRequest?: boolean\r\n}\r\n\r\n\r\nexport interface Delayed<T> {\r\n\r\n  nestedObject: T,\r\n  sentData: InputType\r\n  time: number\r\n}\r\n\r\n\r\n//globals start\r\ndeclare global {\r\n  type TransformationResponse = TransformationRes;\r\n  function delay<T extends SenderResponse>(time: number, res: T): Delayed<T>\r\n  let data: DataObj\r\n}\r\n\r\n\r\n//globals end\r\ninterface DataObj {\r\n  usedTransformation: {\r\n    name: string\r\n  }\r\n}\r\n\r\n\r\ninterface NotificationData<SoundDef = SoundType> {\r\n  title?: string;\r\n  sound?: SoundDef;\r\n  body?: string;\r\n}\r\n\r\nexport interface SenderResponse<SoundDef = SoundType, NotificationType = NotificationData<SoundDef>> {\r\n  promise?: Delayed<SenderResponse>;\r\n  notification?: NotificationType,\r\n\r\n  attributes?: {\r\n    messageId?: string\r\n  }\r\n\r\n  read?: {\r\n    text: string\r\n  }\r\n\r\n}\r\n\r\nexport type SoundType = soundListRuntime | '*' | Array<soundListRuntime>\r\n\r\ntype soundListRuntime = string\n      ",
+               "globals": "\n            type TransformationResponse = EditorSchema.TransformationRes;\n            function delay<T extends EditorSchema.SenderResponse>(time: number, res: T): EditorSchema.Delayed<T>\n      "
+            }
+         },
+         "view": "bc3ffeb5-2263-40f2-917f-c4bfe7fd8f0c",
+         "parameters": {
+            "mode": "object",
+            "code": "{\"tsCode\":\"const time = 60 * 4;\\r\\n({\\r\\n    response: {\\r\\n        time\\r\\n    },\\r\\n    promise: delay(time, {\\r\\n        notification: {\\r\\n            title: \\\"nudelsuppe\\\",\\r\\n            sound: \\\"*\\\"\\r\\n        }\\r\\n    })\\r\\n}) as TransformationResponse;\\r\\n\",\"timestamp\":1708547934886,\"jsCode\":\"const time = 60 * 4;\\n({\\n    response: {\\n        time\\n    },\\n    promise: delay(time, {\\n        notification: {\\n            title: \\\"nudelsuppe\\\",\\n            sound: \\\"*\\\"\\n        }\\n    })\\n});\\n\",\"node\":\"8c66d9b7-7b04-4265-9810-47c3824c67ee\"}"
+         }
+      },
+      {
+         "position": {
+            "y": 221,
+            "x": 663
+         },
+         "type": "map",
+         "uuid": "5fef784e-b38f-42ef-9869-9a9a6b97857a",
+         "runtimeContext": {
+            "parameters": {
+               "code": {
+                  "type": "monaco"
+               }
+            },
+            "editorSchema": {
+               "dts": "\n            type Main=any\n\n            type InputType=Main\n\n            \r\n\r\nexport interface TransformationRes extends SenderResponse {\r\n  status?: number;\r\n  error?: number;\r\n\r\n\r\n  response?: {\r\n    [key: string]: unknown\r\n  }\r\n\r\n}\r\n\r\n\r\nexport interface ConnectionResponse extends TransformationRes {\r\n\r\n  withRequest?: boolean\r\n}\r\n\r\n\r\nexport interface Delayed<T> {\r\n\r\n  nestedObject: T,\r\n  sentData: InputType\r\n  time: number\r\n}\r\n\r\n\r\n//globals start\r\ndeclare global {\r\n  type TransformationResponse = TransformationRes;\r\n  function delay<T extends SenderResponse>(time: number, res: T): Delayed<T>\r\n  let data: DataObj\r\n}\r\n\r\n\r\n//globals end\r\ninterface DataObj {\r\n  usedTransformation: {\r\n    name: string\r\n  }\r\n}\r\n\r\n\r\ninterface NotificationData<SoundDef = SoundType> {\r\n  title?: string;\r\n  sound?: SoundDef;\r\n  body?: string;\r\n}\r\n\r\nexport interface SenderResponse<SoundDef = SoundType, NotificationType = NotificationData<SoundDef>> {\r\n  promise?: Delayed<SenderResponse>;\r\n  notification?: NotificationType,\r\n\r\n  attributes?: {\r\n    messageId?: string\r\n  }\r\n\r\n  read?: {\r\n    text: string\r\n  }\r\n\r\n}\r\n\r\nexport type SoundType = soundListRuntime | '*' | Array<soundListRuntime>\r\n\r\ntype soundListRuntime = string\n      ",
+               "globals": "\n            type TransformationResponse = EditorSchema.TransformationRes;\n            function delay<T extends EditorSchema.SenderResponse>(time: number, res: T): EditorSchema.Delayed<T>\n      "
+            }
+         },
+         "view": "bc3ffeb5-2263-40f2-917f-c4bfe7fd8f0c",
+         "parameters": {
+            "mode": "object",
+            "code": "{\"tsCode\":\"const time = 60 * 5;\\r\\n({\\r\\n    response: {\\r\\n        time\\r\\n    },\\r\\n    promise: delay(time, {\\r\\n        notification: {\\r\\n            body: \\\"toast starten\\\",\\r\\n            sound: \\\"*\\\" \\r\\n        },\\r\\n        promise:delay(3*60 ,{\\r\\n            notification:{\\r\\n                body: \\\"Camenbert !!!!\\\",\\r\\n                sound: \\\"*\\\" \\r\\n            }\\r\\n        })\\r\\n    })\\r\\n}) as TransformationResponse;\\r\\n\",\"timestamp\":1708547947625,\"jsCode\":\"const time = 60 * 5;\\n({\\n    response: {\\n        time\\n    },\\n    promise: delay(time, {\\n        notification: {\\n            body: \\\"toast starten\\\",\\n            sound: \\\"*\\\"\\n        },\\n        promise: delay(3 * 60, {\\n            notification: {\\n                body: \\\"Camenbert !!!!\\\",\\n                sound: \\\"*\\\"\\n            }\\n        })\\n    })\\n});\\n\",\"node\":\"5fef784e-b38f-42ef-9869-9a9a6b97857a\"}"
+         }
+      },
+      {
+         "position": {
+            "y": 285,
+            "x": 668
+         },
+         "type": "map",
+         "uuid": "f0ebf0a1-cbb8-4942-aac3-84acccac0123",
+         "runtimeContext": {
+            "parameters": {
+               "code": {
+                  "type": "monaco"
+               }
+            },
+            "editorSchema": {
+               "dts": "\n            type Main=any\n\n            type InputType=Main\n\n            \r\n\r\nexport interface TransformationRes extends SenderResponse {\r\n  status?: number;\r\n  error?: number;\r\n\r\n\r\n  response?: {\r\n    [key: string]: unknown\r\n  }\r\n\r\n}\r\n\r\n\r\nexport interface ConnectionResponse extends TransformationRes {\r\n\r\n  withRequest?: boolean\r\n}\r\n\r\n\r\nexport interface Delayed<T> {\r\n\r\n  nestedObject: T,\r\n  sentData: InputType\r\n  time: number\r\n}\r\n\r\n\r\n//globals start\r\ndeclare global {\r\n  type TransformationResponse = TransformationRes;\r\n  function delay<T extends SenderResponse>(time: number, res: T): Delayed<T>\r\n  let data: DataObj\r\n}\r\n\r\n\r\n//globals end\r\ninterface DataObj {\r\n  usedTransformation: {\r\n    name: string\r\n  }\r\n}\r\n\r\n\r\ninterface NotificationData<SoundDef = SoundType> {\r\n  title?: string;\r\n  sound?: SoundDef;\r\n  body?: string;\r\n}\r\n\r\nexport interface SenderResponse<SoundDef = SoundType, NotificationType = NotificationData<SoundDef>> {\r\n  promise?: Delayed<SenderResponse>;\r\n  notification?: NotificationType,\r\n\r\n  attributes?: {\r\n    messageId?: string\r\n  }\r\n\r\n  read?: {\r\n    text: string\r\n  }\r\n\r\n}\r\n\r\nexport type SoundType = soundListRuntime | '*' | Array<soundListRuntime>\r\n\r\ntype soundListRuntime = string\n      ",
+               "globals": "\n            type TransformationResponse = EditorSchema.TransformationRes;\n            function delay<T extends EditorSchema.SenderResponse>(time: number, res: T): EditorSchema.Delayed<T>\n      "
+            }
+         },
+         "view": "bc3ffeb5-2263-40f2-917f-c4bfe7fd8f0c",
+         "parameters": {
+            "mode": "object",
+            "code": "{\"tsCode\":\"test\",\"timestamp\":1708547818999,\"jsCode\":\"test;\\n\",\"node\":\"64f23a8d-593d-43d5-8a8e-aca12336c428\"}"
+         }
+      },
+      {
+         "position": {
+            "y": 351,
+            "x": 671
+         },
+         "type": "map",
+         "uuid": "60ccb76a-12fd-43d2-a3b9-82b5e2c6df3b",
+         "runtimeContext": {
+            "parameters": {
+               "code": {
+                  "type": "monaco"
+               }
+            },
+            "editorSchema": {
+               "dts": "\n            type Main=any\n\n            type InputType=Main\n\n            \r\n\r\nexport interface TransformationRes extends SenderResponse {\r\n  status?: number;\r\n  error?: number;\r\n\r\n\r\n  response?: {\r\n    [key: string]: unknown\r\n  }\r\n\r\n}\r\n\r\n\r\nexport interface ConnectionResponse extends TransformationRes {\r\n\r\n  withRequest?: boolean\r\n}\r\n\r\n\r\nexport interface Delayed<T> {\r\n\r\n  nestedObject: T,\r\n  sentData: InputType\r\n  time: number\r\n}\r\n\r\n\r\n//globals start\r\ndeclare global {\r\n  type TransformationResponse = TransformationRes;\r\n  function delay<T extends SenderResponse>(time: number, res: T): Delayed<T>\r\n  let data: DataObj\r\n}\r\n\r\n\r\n//globals end\r\ninterface DataObj {\r\n  usedTransformation: {\r\n    name: string\r\n  }\r\n}\r\n\r\n\r\ninterface NotificationData<SoundDef = SoundType> {\r\n  title?: string;\r\n  sound?: SoundDef;\r\n  body?: string;\r\n}\r\n\r\nexport interface SenderResponse<SoundDef = SoundType, NotificationType = NotificationData<SoundDef>> {\r\n  promise?: Delayed<SenderResponse>;\r\n  notification?: NotificationType,\r\n\r\n  attributes?: {\r\n    messageId?: string\r\n  }\r\n\r\n  read?: {\r\n    text: string\r\n  }\r\n\r\n}\r\n\r\nexport type SoundType = soundListRuntime | '*' | Array<soundListRuntime>\r\n\r\ntype soundListRuntime = string\n      ",
+               "globals": "\n            type TransformationResponse = EditorSchema.TransformationRes;\n            function delay<T extends EditorSchema.SenderResponse>(time: number, res: T): EditorSchema.Delayed<T>\n      "
+            }
+         },
+         "view": "bc3ffeb5-2263-40f2-917f-c4bfe7fd8f0c",
+         "parameters": {
+            "mode": "object",
+            "code": "{\"tsCode\":\"const time = 60 * 60 * 2.75;\\r\\n({\\r\\n    response: {\\r\\n        time\\r\\n    },\\r\\n    promise: delay(time, {\\r\\n        notification: {\\r\\n            title: \\\"Wäsche fertig\\\"\\r\\n        }\\r\\n    })\\r\\n}) as TransformationResponse;\\r\\n\",\"timestamp\":1708547992210,\"jsCode\":\"const time = 60 * 60 * 2.75;\\n({\\n    response: {\\n        time\\n    },\\n    promise: delay(time, {\\n        notification: {\\n            title: \\\"Wäsche fertig\\\"\\n        }\\n    })\\n});\\n\",\"node\":\"60ccb76a-12fd-43d2-a3b9-82b5e2c6df3b\"}"
+         }
+      },
+      {
+         "position": {
+            "y": 412,
+            "x": 668
+         },
+         "type": "map",
+         "uuid": "7b411174-cfbb-49eb-908d-fafc867f1ff2",
+         "runtimeContext": {
+            "parameters": {
+               "code": {
+                  "type": "monaco"
+               }
+            },
+            "editorSchema": {
+               "dts": "\n            type Main=any\n\n            type InputType=Main\n\n            \r\n\r\nexport interface TransformationRes extends SenderResponse {\r\n  status?: number;\r\n  error?: number;\r\n\r\n\r\n  response?: {\r\n    [key: string]: unknown\r\n  }\r\n\r\n}\r\n\r\n\r\nexport interface ConnectionResponse extends TransformationRes {\r\n\r\n  withRequest?: boolean\r\n}\r\n\r\n\r\nexport interface Delayed<T> {\r\n\r\n  nestedObject: T,\r\n  sentData: InputType\r\n  time: number\r\n}\r\n\r\n\r\n//globals start\r\ndeclare global {\r\n  type TransformationResponse = TransformationRes;\r\n  function delay<T extends SenderResponse>(time: number, res: T): Delayed<T>\r\n  let data: DataObj\r\n}\r\n\r\n\r\n//globals end\r\ninterface DataObj {\r\n  usedTransformation: {\r\n    name: string\r\n  }\r\n}\r\n\r\n\r\ninterface NotificationData<SoundDef = SoundType> {\r\n  title?: string;\r\n  sound?: SoundDef;\r\n  body?: string;\r\n}\r\n\r\nexport interface SenderResponse<SoundDef = SoundType, NotificationType = NotificationData<SoundDef>> {\r\n  promise?: Delayed<SenderResponse>;\r\n  notification?: NotificationType,\r\n\r\n  attributes?: {\r\n    messageId?: string\r\n  }\r\n\r\n  read?: {\r\n    text: string\r\n  }\r\n\r\n}\r\n\r\nexport type SoundType = soundListRuntime | '*' | Array<soundListRuntime>\r\n\r\ntype soundListRuntime = string\n      ",
+               "globals": "\n            type TransformationResponse = EditorSchema.TransformationRes;\n            function delay<T extends EditorSchema.SenderResponse>(time: number, res: T): EditorSchema.Delayed<T>\n      "
+            }
+         },
+         "view": "bc3ffeb5-2263-40f2-917f-c4bfe7fd8f0c",
+         "parameters": {
+            "mode": "object",
+            "code": "{\"tsCode\":\"const time = 60 * 10;\\r\\n({\\r\\n    response: {\\r\\n        time\\r\\n    },\\r\\n    promise: delay(time, {\\r\\n        notification: {\\r\\n            title: \\\"Milchreis\\\",\\r\\n            sound: \\\"*\\\"\\r\\n        }\\r\\n    })\\r\\n}) as TransformationResponse;\\r\\n\",\"timestamp\":1708548008403,\"jsCode\":\"const time = 60 * 10;\\n({\\n    response: {\\n        time\\n    },\\n    promise: delay(time, {\\n        notification: {\\n            title: \\\"Milchreis\\\",\\n            sound: \\\"*\\\"\\n        }\\n    })\\n});\\n\",\"node\":\"7b411174-cfbb-49eb-908d-fafc867f1ff2\"}"
+         }
+      },
+      {
+         "position": {
+            "y": 474,
+            "x": 668
+         },
+         "type": "map",
+         "uuid": "8180fd49-1a4f-4879-81d1-1f641f34471d",
+         "runtimeContext": {
+            "parameters": {
+               "code": {
+                  "type": "monaco"
+               }
+            },
+            "editorSchema": {
+               "dts": "\n            type Main=any\n\n            type InputType=Main\n\n            \r\n\r\nexport interface TransformationRes extends SenderResponse {\r\n  status?: number;\r\n  error?: number;\r\n\r\n\r\n  response?: {\r\n    [key: string]: unknown\r\n  }\r\n\r\n}\r\n\r\n\r\nexport interface ConnectionResponse extends TransformationRes {\r\n\r\n  withRequest?: boolean\r\n}\r\n\r\n\r\nexport interface Delayed<T> {\r\n\r\n  nestedObject: T,\r\n  sentData: InputType\r\n  time: number\r\n}\r\n\r\n\r\n//globals start\r\ndeclare global {\r\n  type TransformationResponse = TransformationRes;\r\n  function delay<T extends SenderResponse>(time: number, res: T): Delayed<T>\r\n  let data: DataObj\r\n}\r\n\r\n\r\n//globals end\r\ninterface DataObj {\r\n  usedTransformation: {\r\n    name: string\r\n  }\r\n}\r\n\r\n\r\ninterface NotificationData<SoundDef = SoundType> {\r\n  title?: string;\r\n  sound?: SoundDef;\r\n  body?: string;\r\n}\r\n\r\nexport interface SenderResponse<SoundDef = SoundType, NotificationType = NotificationData<SoundDef>> {\r\n  promise?: Delayed<SenderResponse>;\r\n  notification?: NotificationType,\r\n\r\n  attributes?: {\r\n    messageId?: string\r\n  }\r\n\r\n  read?: {\r\n    text: string\r\n  }\r\n\r\n}\r\n\r\nexport type SoundType = soundListRuntime | '*' | Array<soundListRuntime>\r\n\r\ntype soundListRuntime = string\n      ",
+               "globals": "\n            type TransformationResponse = EditorSchema.TransformationRes;\n            function delay<T extends EditorSchema.SenderResponse>(time: number, res: T): EditorSchema.Delayed<T>\n      "
+            }
+         },
+         "view": "bc3ffeb5-2263-40f2-917f-c4bfe7fd8f0c",
+         "parameters": {
+            "mode": "object",
+            "code": "{\"tsCode\":\"const time = 60 * 10;\\r\\n({\\r\\n    response: {\\r\\n        time\\r\\n    },\\r\\n    promise: delay(time, {\\r\\n        notification: {\\r\\n            body: \\\"Reis\\\"\\r\\n        }\\r\\n    })\\r\\n}) as TransformationResponse;\\r\\n\",\"timestamp\":1708548023849,\"jsCode\":\"const time = 60 * 10;\\n({\\n    response: {\\n        time\\n    },\\n    promise: delay(time, {\\n        notification: {\\n            body: \\\"Reis\\\"\\n        }\\n    })\\n});\\n\",\"node\":\"8180fd49-1a4f-4879-81d1-1f641f34471d\"}"
+         }
+      },
+      {
+         "position": {
+            "y": 532,
+            "x": 664
+         },
+         "type": "map",
+         "uuid": "b3f1e4c2-8cf9-497e-8b5a-12bbfd90a89e",
+         "runtimeContext": {
+            "parameters": {
+               "code": {
+                  "type": "monaco"
+               }
+            },
+            "editorSchema": {
+               "dts": "\n            type Main=any\n\n            type InputType=Main\n\n            \r\n\r\nexport interface TransformationRes extends SenderResponse {\r\n  status?: number;\r\n  error?: number;\r\n\r\n\r\n  response?: {\r\n    [key: string]: unknown\r\n  }\r\n\r\n}\r\n\r\n\r\nexport interface ConnectionResponse extends TransformationRes {\r\n\r\n  withRequest?: boolean\r\n}\r\n\r\n\r\nexport interface Delayed<T> {\r\n\r\n  nestedObject: T,\r\n  sentData: InputType\r\n  time: number\r\n}\r\n\r\n\r\n//globals start\r\ndeclare global {\r\n  type TransformationResponse = TransformationRes;\r\n  function delay<T extends SenderResponse>(time: number, res: T): Delayed<T>\r\n  let data: DataObj\r\n}\r\n\r\n\r\n//globals end\r\ninterface DataObj {\r\n  usedTransformation: {\r\n    name: string\r\n  }\r\n}\r\n\r\n\r\ninterface NotificationData<SoundDef = SoundType> {\r\n  title?: string;\r\n  sound?: SoundDef;\r\n  body?: string;\r\n}\r\n\r\nexport interface SenderResponse<SoundDef = SoundType, NotificationType = NotificationData<SoundDef>> {\r\n  promise?: Delayed<SenderResponse>;\r\n  notification?: NotificationType,\r\n\r\n  attributes?: {\r\n    messageId?: string\r\n  }\r\n\r\n  read?: {\r\n    text: string\r\n  }\r\n\r\n}\r\n\r\nexport type SoundType = soundListRuntime | '*' | Array<soundListRuntime>\r\n\r\ntype soundListRuntime = string\n      ",
+               "globals": "\n            type TransformationResponse = EditorSchema.TransformationRes;\n            function delay<T extends EditorSchema.SenderResponse>(time: number, res: T): EditorSchema.Delayed<T>\n      "
+            }
+         },
+         "view": "bc3ffeb5-2263-40f2-917f-c4bfe7fd8f0c",
+         "parameters": {
+            "mode": "object",
+            "code": "{\"tsCode\":\"const time=60*5;\\r\\n({\\r\\n  response:{\\r\\n    time\\r\\n  },\\r\\n  promise:delay(time,{\\r\\n    notification:{\\r\\n        body:\\\"Tee !!!!\\\",\\r\\n        sound:\\\"*\\\"\\r\\n    }, \\r\\n    promise:delay(60*8,{\\r\\n        notification:{\\r\\n            body:\\\"Tee fertig\\\",\\r\\n            sound:\\\"bell\\\"\\r\\n        }\\r\\n    }) \\r\\n  }) \\r\\n})  as TransformationResponse\",\"timestamp\":1708548069928,\"jsCode\":\"const time = 60 * 5;\\n({\\n    response: {\\n        time\\n    },\\n    promise: delay(time, {\\n        notification: {\\n            body: \\\"Tee !!!!\\\",\\n            sound: \\\"*\\\"\\n        },\\n        promise: delay(60 * 8, {\\n            notification: {\\n                body: \\\"Tee fertig\\\",\\n                sound: \\\"bell\\\"\\n            }\\n        })\\n    })\\n});\\n\",\"node\":\"b3f1e4c2-8cf9-497e-8b5a-12bbfd90a89e\"}"
+         }
+      },
+      {
+         "position": {
+            "y": 590,
+            "x": 661
+         },
+         "type": "map",
+         "uuid": "174b2622-3ad9-4712-93fe-0ace8579184d",
+         "runtimeContext": {
+            "parameters": {
+               "code": {
+                  "type": "monaco"
+               }
+            },
+            "editorSchema": {
+               "dts": "\n            type Main=any\n\n            type InputType=Main\n\n            \r\n\r\nexport interface TransformationRes extends SenderResponse {\r\n  status?: number;\r\n  error?: number;\r\n\r\n\r\n  response?: {\r\n    [key: string]: unknown\r\n  }\r\n\r\n}\r\n\r\n\r\nexport interface ConnectionResponse extends TransformationRes {\r\n\r\n  withRequest?: boolean\r\n}\r\n\r\n\r\nexport interface Delayed<T> {\r\n\r\n  nestedObject: T,\r\n  sentData: InputType\r\n  time: number\r\n}\r\n\r\n\r\n//globals start\r\ndeclare global {\r\n  type TransformationResponse = TransformationRes;\r\n  function delay<T extends SenderResponse>(time: number, res: T): Delayed<T>\r\n  let data: DataObj\r\n}\r\n\r\n\r\n//globals end\r\ninterface DataObj {\r\n  usedTransformation: {\r\n    name: string\r\n  }\r\n}\r\n\r\n\r\ninterface NotificationData<SoundDef = SoundType> {\r\n  title?: string;\r\n  sound?: SoundDef;\r\n  body?: string;\r\n}\r\n\r\nexport interface SenderResponse<SoundDef = SoundType, NotificationType = NotificationData<SoundDef>> {\r\n  promise?: Delayed<SenderResponse>;\r\n  notification?: NotificationType,\r\n\r\n  attributes?: {\r\n    messageId?: string\r\n  }\r\n\r\n  read?: {\r\n    text: string\r\n  }\r\n\r\n}\r\n\r\nexport type SoundType = soundListRuntime | '*' | Array<soundListRuntime>\r\n\r\ntype soundListRuntime = string\n      ",
+               "globals": "\n            type TransformationResponse = EditorSchema.TransformationRes;\n            function delay<T extends EditorSchema.SenderResponse>(time: number, res: T): EditorSchema.Delayed<T>\n      "
+            }
+         },
+         "view": "bc3ffeb5-2263-40f2-917f-c4bfe7fd8f0c",
+         "parameters": {
+            "mode": "object",
+            "code": "{\"tsCode\":\"const time = 60 * 8;\\r\\n({\\r\\n    response: {\\r\\n        time\\r\\n    },\\r\\n    promise: delay(time, {\\r\\n        notification: {\\r\\n            body: \\\"Suppe fertig !!!!\\\",\\r\\n            sound:\\\"*\\\"\\r\\n        }\\r\\n    })\\r\\n}) as TransformationResponse;\\r\\n\",\"timestamp\":1708548055069,\"jsCode\":\"const time = 60 * 8;\\n({\\n    response: {\\n        time\\n    },\\n    promise: delay(time, {\\n        notification: {\\n            body: \\\"Suppe fertig !!!!\\\",\\n            sound: \\\"*\\\"\\n        }\\n    })\\n});\\n\",\"node\":\"174b2622-3ad9-4712-93fe-0ace8579184d\"}"
+         }
+      },
+      {
+         "position": {
+            "y": 93,
+            "x": 1073
+         },
+         "type": "map",
+         "uuid": "1872ddc6-b784-4735-90d5-324f5c0f490d",
+         "runtimeContext": {
+            "parameters": {
+               "code": {
+                  "type": "monaco"
+               }
+            },
+            "editorSchema": {
+               "dts": "\n            type Main=any\n\n            type InputType=Main\n\n            \r\n\r\nexport interface TransformationRes extends SenderResponse {\r\n  status?: number;\r\n  error?: number;\r\n\r\n\r\n  response?: {\r\n    [key: string]: unknown\r\n  }\r\n\r\n}\r\n\r\n\r\nexport interface ConnectionResponse extends TransformationRes {\r\n\r\n  withRequest?: boolean\r\n}\r\n\r\n\r\nexport interface Delayed<T> {\r\n\r\n  nestedObject: T,\r\n  sentData: InputType\r\n  time: number\r\n}\r\n\r\n\r\n//globals start\r\ndeclare global {\r\n  type TransformationResponse = TransformationRes;\r\n  function delay<T extends SenderResponse>(time: number, res: T): Delayed<T>\r\n  let data: DataObj\r\n}\r\n\r\n\r\n//globals end\r\ninterface DataObj {\r\n  usedTransformation: {\r\n    name: string\r\n  }\r\n}\r\n\r\n\r\ninterface NotificationData<SoundDef = SoundType> {\r\n  title?: string;\r\n  sound?: SoundDef;\r\n  body?: string;\r\n}\r\n\r\nexport interface SenderResponse<SoundDef = SoundType, NotificationType = NotificationData<SoundDef>> {\r\n  promise?: Delayed<SenderResponse>;\r\n  notification?: NotificationType,\r\n\r\n  attributes?: {\r\n    messageId?: string\r\n  }\r\n\r\n  read?: {\r\n    text: string\r\n  }\r\n\r\n}\r\n\r\nexport type SoundType = soundListRuntime | '*' | Array<soundListRuntime>\r\n\r\ntype soundListRuntime = string\n      ",
+               "globals": "\n            type TransformationResponse = EditorSchema.TransformationRes;\n            function delay<T extends EditorSchema.SenderResponse>(time: number, res: T): EditorSchema.Delayed<T>\n      "
+            }
+         },
+         "view": "bc3ffeb5-2263-40f2-917f-c4bfe7fd8f0c"
+      }
+   ],
+   "globals": {
+      "server": "mqtt://192.168.178.54",
+      "mqtt_server": "mqtt://192.168.178.54"
+   }
+}

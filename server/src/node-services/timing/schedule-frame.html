@@ -1,0 +1,159 @@
+<html>
+
+  <head>
+    <meta charset="UTF-8">
+    <style>
+      label {
+        font-size: large;
+        user-select: none;
+      }
+
+      td:has(input:checked+label) {
+        background-color: green;
+      }
+    </style>
+  </head>
+
+  <body>
+    <form id="propertyform"
+          style="width: fit-content;">
+      <div id="columns-wrapper">
+        <table id="table">
+          <tr id="headerRow">
+
+          </tr>
+        </table>
+      </div>
+    </form>
+    <script>
+      addEventListener("message", e => {
+        /**
+         * @type {{type:"data",data:unknown,current:string}}
+         */
+        const evt = JSON.parse(e.data)
+
+        /**
+         * @type {{day:number,slotStart:number}}
+         */
+        let downOn;
+
+        if(evt.type === "data") {
+          const port = e.ports[0]
+
+          let checkedSet = new Set()
+          try {
+            const params = JSON.parse(evt.current)
+            checkedSet = new Set(Object.keys(params))
+          } catch(e) {
+
+          }
+
+          document.body.style.width = "20000px"
+          document.body.style.height = "20000px"
+
+          const form = document.querySelector("#propertyform")
+          const days = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+          const headerRow = document.querySelector("#headerRow")
+          const tableEl = document.querySelector("#table")
+
+          for(let i = 0; i < days.length; i++) {
+            const el = document.createElement("th")
+            el.textContent = days[i]
+            headerRow.appendChild(el)
+
+            for(let slotStart = 0; slotStart < 24; slotStart += 2) {
+              const slotRowClass = `slot${slotStart}`
+              let rowEl = tableEl.querySelector(`tr.${slotRowClass}`)
+              if(!rowEl) {
+                rowEl = document.createElement("tr")
+                rowEl.classList.add(slotRowClass)
+                tableEl.appendChild(rowEl)
+              }
+
+              const slotEl = document.createElement("td")
+              slotEl.classList.add("tableelement")
+              slotEl.addEventListener("mousedown", e => {
+                downOn = {
+                  slotStart,
+                  day: i
+                }
+              })
+              slotEl.addEventListener("mouseup", e => {
+                let dayFrom = downOn.day
+                let dayTo = i;
+                if(downOn.day > i) {
+                  dayFrom = i
+                  dayTo = downOn.day
+                }
+                let slotFrom = downOn.slotStart
+                let slotTo = slotStart;
+                if(slotStart.day > slotStart) {
+                  slotFrom = slotStart
+                  slotTo = downOn.slotStart
+                }
+                if(slotTo === slotFrom && dayTo === dayFrom) {
+                  return
+                }
+
+                const slotInc = downOn.slotStart < slotStart
+
+                for(let daysI = dayFrom; daysI <= dayTo; daysI++) {
+                  for(let slotI = slotFrom; slotI <= slotTo; slotI++) {
+                    const day = days[daysI]
+                    /**
+                     * @type {HTMLInputElement}
+                     */
+                    const input = document.querySelector(`#${day}${slotI}`.toLowerCase())
+                    if(input) {
+                      input.checked = !input.checked
+                    }
+                  }
+                }
+                form.dispatchEvent(new Event("change"))
+              })
+              const slotId = `${el.textContent}${slotStart}`.toLowerCase()
+              const label = document.createElement("label")
+              let startStr = `${slotStart}`
+              if(startStr.length == 1) {
+                startStr = `${String.fromCharCode(160)}${String.fromCharCode(160)}${startStr}`
+              }
+              let endStr = `${slotStart + 2}`
+              if(endStr.length == 1) {
+                endStr = `${String.fromCharCode(160)}${String.fromCharCode(160)}${endStr}`
+              }
+              label.textContent = `${startStr} - ${endStr}`
+              label.setAttribute("for", slotId)
+              const input = document.createElement("input")
+              input.id = slotId
+              input.name = slotId
+              input.type = "checkbox"
+              if(checkedSet.has(slotId)) {
+                input.checked = true
+              }
+
+              input.setAttribute("hidden", "true")
+              slotEl.appendChild(input)
+              slotEl.appendChild(label)
+              rowEl.appendChild(slotEl)
+            }
+
+          }
+
+          form.addEventListener("change", e => {
+            const options = Object.fromEntries(new FormData(form).entries())
+            port.postMessage(JSON.stringify({
+              type: "change",
+              data: JSON.stringify(options)
+            }))
+          })
+          const rect = form.getBoundingClientRect()
+          port.postMessage(JSON.stringify({
+            type: "size",
+            size: rect
+          }))
+        }
+      })
+    </script>
+  </body>
+
+</html>

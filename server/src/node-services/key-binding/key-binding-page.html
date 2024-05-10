@@ -1,0 +1,55 @@
+<style>
+  #content {
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+    --min-width: 20px
+  }
+
+  .board-wrapper {
+    text-align: center;
+  }
+
+  .board {
+    display: flex;
+    gap: 4px;
+  }
+
+  .column {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    gap: 8px;
+  }
+
+  .item input {
+    height: 16px;
+    width: 16px;
+  }
+
+  .label {
+    display: inline-block;
+    background-color: rgb(119, 119, 119);
+    min-height: 20px;
+    min-width: var(--min-width);
+    padding: 0px 4px;
+    cursor: pointer;
+  }
+
+  .label.bound {
+    background-color: #21bb21;
+
+
+    &:has(.active) {
+      background-color: lightgreen;
+    }
+  }
+</style>
+
+
+<div id="content">
+
+
+</div>
+
+<script src="./key-binding-page.js"></script>

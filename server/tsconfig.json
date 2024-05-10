@@ -1,0 +1,31 @@
+{
+  "compilerOptions": {
+    "module": "NodeNext",
+    "baseUrl": "./",
+    "moduleResolution": "NodeNext",
+    "isolatedModules": true,
+    "importsNotUsedAsValues": "error",
+    "ignoreDeprecations": "5.0",
+    "strictNullChecks": true,
+    "useDefineForClassFields": false,
+    "target": "ESNext",
+    "types": [
+      "node"
+    ],
+    "typeRoots": [
+      "node_modules/@types",
+      "customTypes/*"
+    ],
+    "experimentalDecorators": true,
+    "outDir": "compiledjs/shutup",
+    "lib": [
+      "dom",
+      "es6",
+      "ESNext"
+    ]
+  },
+  "include": [
+    "./",
+    "./index.ts"
+  ]
+}
